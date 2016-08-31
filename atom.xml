@@ -16,29 +16,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Educația la japonezi</title>
-    <link href="http://nicolaivadim.github.io/educatia-la-japonezi/"/>
-    <id>http://nicolaivadim.github.io/educatia-la-japonezi/</id>
-    <published>2016-08-30T14:09:01.000Z</published>
-    <updated>2016-08-31T11:41:21.619Z</updated>
-    
-    <content type="html"><![CDATA[<figure><video controls autoplay muted loop><br>      <source src="/educatia-la-japonezi/educatie-japonia.mp4" type="video/mp4"><br></video></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;figure&gt;&lt;video controls autoplay muted loop&gt;&lt;br&gt;      &lt;source src=&quot;/educatia-la-japonezi/educatie-japonia.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;
-    
-    </summary>
-    
-      <category term="Educaţie" scheme="http://nicolaivadim.github.io/categories/educatie/"/>
-    
-    
-      <category term="Japonia" scheme="http://nicolaivadim.github.io/tags/japonia/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Asset Folder</title>
     <link href="http://nicolaivadim.github.io/asset-folder/"/>
     <id>http://nicolaivadim.github.io/asset-folder/</id>
@@ -69,178 +46,23 @@
   </entry>
   
   <entry>
-    <title>testhexo3</title>
-    <link href="http://nicolaivadim.github.io/testhexo3-1/"/>
-    <id>http://nicolaivadim.github.io/testhexo3-1/</id>
-    <published>2016-08-30T07:25:40.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>testhexo3</title>
-    <link href="http://nicolaivadim.github.io/testhexo3/"/>
-    <id>http://nicolaivadim.github.io/testhexo3/</id>
-    <published>2016-08-30T07:25:24.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>testhexo2</title>
-    <link href="http://nicolaivadim.github.io/testhexo2/"/>
-    <id>http://nicolaivadim.github.io/testhexo2/</id>
-    <published>2016-08-30T07:24:46.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>testhexo</title>
-    <link href="http://nicolaivadim.github.io/testhexo/"/>
-    <id>http://nicolaivadim.github.io/testhexo/</id>
-    <published>2016-08-30T07:22:58.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>testimages</title>
-    <link href="http://nicolaivadim.github.io/testimages/"/>
-    <id>http://nicolaivadim.github.io/testimages/</id>
-    <published>2016-08-29T13:09:16.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="1-First-ordered-list-item"><a href="#1-First-ordered-list-item" class="headerlink" title="1. First ordered list item "></a>1. First ordered list item <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1"></h1><h1 id="2-Another-item-trala-la-latrala-la-latrala-la-la"><a href="#2-Another-item-trala-la-latrala-la-latrala-la-la" class="headerlink" title="2. Another item trala la latrala la latrala la la"></a>2. Another item trala la latrala la latrala la la</h1><p>#Test</p>
-<h2 id="1-Second-ordered-list-item"><a href="#1-Second-ordered-list-item" class="headerlink" title="1. Second ordered list item"></a>1. Second ordered list item</h2><h2 id="2-Second-another-item-trala-la-latrala-la-latrala-la-la"><a href="#2-Second-another-item-trala-la-latrala-la-latrala-la-la" class="headerlink" title="2. Second another item trala la latrala la latrala la la"></a>2. Second another item trala la latrala la latrala la la</h2><p><img src="https://unsplash.it/400" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;1-First-ordered-list-item&quot;&gt;&lt;a href=&quot;#1-First-ordered-list-item&quot; class=&quot;headerlink&quot; title=&quot;1. First ordered list item &quot;&gt;&lt;/a&gt;1. First 
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test2</title>
-    <link href="http://nicolaivadim.github.io/test2/"/>
-    <id>http://nicolaivadim.github.io/test2/</id>
-    <published>2016-08-29T11:23:24.000Z</published>
-    <updated>2016-08-31T11:41:21.731Z</updated>
-    
-    <content type="html"><![CDATA[<p>trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with <em>asterisks</em> or _underscores</p>
-<ol>
-<li>First ordered list item</li>
-<li>Another item trala la latrala la latrala la la</li>
-</ol>
-<h1 id="First-paragraph"><a href="#First-paragraph" class="headerlink" title="First paragraph"></a>First paragraph</h1><h2 id="Second-paragraph"><a href="#Second-paragraph" class="headerlink" title="Second paragraph"></a>Second paragraph</h2><h1 id="First-paragraph-1"><a href="#First-paragraph-1" class="headerlink" title="First paragraph"></a>First paragraph</h1><h2 id="Second-paragraph-1"><a href="#Second-paragraph-1" class="headerlink" title="Second paragraph"></a>Second paragraph</h2>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or _underscores&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;First
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Varză, ouă și pesmet – asta e tot de ce este nevoie pentru a prepara o gustare ideală rapidă!</title>
     <link href="http://nicolaivadim.github.io/varza-oua-si-pesmet-asta-e-tot-de-ce-este-nevoie-pentru-prepara-o-gustare-ideala-rapida/"/>
     <id>http://nicolaivadim.github.io/varza-oua-si-pesmet-asta-e-tot-de-ce-este-nevoie-pentru-prepara-o-gustare-ideala-rapida/</id>
     <published>2016-07-30T14:09:26.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:15.147Z</updated>
     
     <content type="html"><![CDATA[<p>Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicioase și crocante, încât îți este greu să te abții de la a mai lua din farfurie încă o bucată…</p>
-<p>[wp_ad_camp_3]</p>
-<div class="mashsb-buttons">Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicioase și crocante, încât îți este greu să te abții de la a mai lua din farfurie încă o bucată…</div><br>&nbsp;<br><br>Datorită tratamentului termic scurt, varza își păstrează aproape toate proprietățile sale utile, ceea ce este foarte important, deoarece această legumă este bogată în vitamine, fibre, minerale, esențiale pentru organismul nostru. De aceea, varza prăjită în ou este o mâncare nu doar sățioasă, care se prepară rapid și ieftin, dar și sănătoasă.<br><br>[wp_ad_camp_2]<br><br>## <span style="color: #000000;">Șnițel de varză</span><br><br><div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   1 căpățână mică de varză dulce (până la 1 kg)
-</em>   3 ouă<br><em>   pesmet
-</em>   sare și piper după gust<br>*   ulei de floarea soarelui pentru prăjit<br></div>
-
-<h3 id="wp-ad-camp-1"><a href="#wp-ad-camp-1" class="headerlink" title="[wp_ad_camp_1]"></a>[wp_ad_camp_1]</h3><h3 id="Mod-de-preparare"><a href="#Mod-de-preparare" class="headerlink" title="Mod de preparare"></a>Mod de preparare</h3><ol>
+<p>Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicioase și crocante, încât îți este greu să te abții de la a mai lua din farfurie încă o bucată…</p>
+<p>Datorită tratamentului termic scurt, varza își păstrează aproape toate proprietățile sale utile, ceea ce este foarte important, deoarece această legumă este bogată în vitamine, fibre, minerale, esențiale pentru organismul nostru. De aceea, varza prăjită în ou este o mâncare nu doar sățioasă, care se prepară rapid și ieftin, dar și sănătoasă.<br><a id="more"></a></p>
+<h2 id="Snitel-de-varza"><a href="#Snitel-de-varza" class="headerlink" title="Șnițel de varză"></a><span style="color: #000000;">Șnițel de varză</span></h2><h3 id="Ingrediente"><a href="#Ingrediente" class="headerlink" title="Ingrediente"></a>Ingrediente</h3><ul>
+<li>1 căpățână mică de varză dulce (până la 1 kg)</li>
+<li>3 ouă</li>
+<li>pesmet</li>
+<li>sare și piper după gust</li>
+<li>ulei de floarea soarelui pentru prăjit</li>
+</ul>
+<h3 id="Mod-de-preparare"><a href="#Mod-de-preparare" class="headerlink" title="Mod de preparare"></a>Mod de preparare</h3><ol>
 <li>Secretul principal al preparării acestei legume constă în tăierea corectă a ei. Nu trebuie să eliminați complet partea butucănoasă, altfel frunzele de varză pur și simplu se vor destrăma în timpul gătirii. Îndepărtați doar partea mai proeminentă a cotorului iar căpățâna tăiați-o felii.<br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/07/61_2.jpg" alt="61_2"></li>
 <li>Opăriți varza în apă sărată timp de 5 minute. Lăsați-o să se răcească ușor.<br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/07/68_3.jpg" alt="68_3"></li>
 <li>Bateți ouăle, adăugați sare și piper după gust. Treceți fiecare felie de varză prin ou, după care prin pesmet, apoi din nou prin ou și în cele din urmă puneți-le într-o tigaie cu ulei încins.<br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/07/91_4.jpg" alt="91_4"></li>
@@ -251,7 +73,9 @@
     
     <summary type="html">
     
-      &lt;p&gt;Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicio
+      &lt;p&gt;Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicioase și crocante, încât îți este greu să te abții de la a mai lua din farfurie încă o bucată…&lt;/p&gt;
+&lt;p&gt;Varza albă poate fi gustoasă nu numai într-o salată! Iar această rețetă de șnițele de varză confirmă acest lucru. Ele ies atât de delicioase și crocante, încât îți este greu să te abții de la a mai lua din farfurie încă o bucată…&lt;/p&gt;
+&lt;p&gt;Datorită tratamentului termic scurt, varza își păstrează aproape toate proprietățile sale utile, ceea ce este foarte important, deoarece această legumă este bogată în vitamine, fibre, minerale, esențiale pentru organismul nostru. De aceea, varza prăjită în ou este o mâncare nu doar sățioasă, care se prepară rapid și ieftin, dar și sănătoasă.&lt;br&gt;
     
     </summary>
     
@@ -273,11 +97,10 @@
     <link href="http://nicolaivadim.github.io/clatite-cu-cascaval/"/>
     <id>http://nicolaivadim.github.io/clatite-cu-cascaval/</id>
     <published>2016-07-09T08:36:12.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:20.475Z</updated>
     
-    <content type="html"><![CDATA[<p>[wp_ad_camp_3]</p>
-<p><span style="font-weight: 400;">Clătitele sunt unele dintre cele mai delicioase bucate, care sunt ușor și rapid de pregătit. Dulci sau sărate, clătitele sunt preferate atât în rândul copiilor cât și a maturilor.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Astăzi îți propunem o rețetă extraordinară de clătite cu cașcaval și verdeață numai bună pentru micul dejun sau pentru un prânz ușor, dar delicios.</span></p>
-<p>[wp_ad_camp_1]</p>
+    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Clătitele sunt unele dintre cele mai delicioase bucate, care sunt ușor și rapid de pregătit. Dulci sau sărate, clătitele sunt preferate atât în rândul copiilor cât și a maturilor.</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Astăzi îți propunem o rețetă extraordinară de clătite cu cașcaval și verdeață numai bună pentru micul dejun sau pentru un prânz ușor, dar delicios.</span></p>
+<a id="more"></a>
 <div class="shortcode-ingredients">
 
 <h3 id="Ingrediente"><a href="#Ingrediente" class="headerlink" title="Ingrediente"></a>Ingrediente</h3><ul>
@@ -304,8 +127,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;[wp_ad_camp_3]&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Clătitele sunt unele dintre cele mai delicioase bucate, care sunt ușor și rapid de 
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Clătitele sunt unele dintre cele mai delicioase bucate, care sunt ușor și rapid de pregătit. Dulci sau sărate, clătitele sunt preferate atât în rândul copiilor cât și a maturilor.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Astăzi îți propunem o rețetă extraordinară de clătite cu cașcaval și verdeață numai bună pentru micul dejun sau pentru un prânz ușor, dar delicios.&lt;/span&gt;&lt;/p&gt;
     
     </summary>
     
@@ -327,19 +149,19 @@
     <link href="http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/"/>
     <id>http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/</id>
     <published>2016-06-25T16:08:39.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:15.951Z</updated>
     
-    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de&nbsp;o cană de ceai sau să încheiați frumos un prânz festiv.</span></p>
-<p>[wp_ad_camp_1]<br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/tort-de-brânză.jpg" alt="tort-de-brânză"><br>[wp_ad_camp_2]</p>
+    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de&nbsp;o cană de ceai sau să încheiați frumos un prânz festiv.</span><br><a id="more"></a><br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/tort-de-brânză.jpg" alt="tort-de-brânză"><br>[wp_ad_camp_2]</p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   <span class="tick"></span><span style="font-weight: 400;">200 g de brânză de vaci (brânza pentru umplutură trebuie să fie cu un conținut ridicat de grăsimi și trebuie mărunțită cu ajutorul blenderului)</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">500 g de smântână de 20%</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">180 g de unt</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">400 g de biscuiți sfărâmicioși</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">30 g de gelatină</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">1 pahar de zahăr</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">500-700 g de struguri</span>
-</em>   <span class="tick"></span><span style="font-weight: 400;">nuci – pentru decor</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">Vezi </span><a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external"><strong>Măsurarea ingredientelor</strong></a><br></div><br>[wp_ad_camp_3]<br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Topiți untul la bain-marie.</span><br>2.  <span style="font-weight: 400;">Mărunțiți biscuiții în firimituri fine până la omogenizare (cu ajutorul unui făcăleț sau blender) și amestecați-le cu untul topit. Așteptați până când amestecul se va răci un pic.</span><br>3.  <span style="font-weight: 400;">Luați o formă pentru tort și puneți o folie alimentară (astfel va fi mai ușor de scos tortul). Puneți în partea de jos a formei un strat uniform de amestec de biscuiți și unt, îndesați și dați la frigider timp de 1-2 ore.</span><br>4.  <span style="font-weight: 400;">Turnați un pahar de apă rece peste gelatină și lăsați-o să se umfle timp de 40-60 de minute.</span><br>5.  <span style="font-weight: 400;">Amestecați în blender zahărul, smântâna și brânza de vaci.</span><br>6.  <span style="font-weight: 400;">Puneți gelatina umflată la foc mic și amestecați continuu până la dizolvarea completă, apoi lăsați-o să se răcească.</span><br>7.  <span style="font-weight: 400;">Turnați gelatina dizolvată în masa de brânză și amestecați bine.</span><br>8.  <span style="font-weight: 400;">Puneți un strat de struguri pe blatul răcit și deasupra turnați crema de brânză, apoi dați la frigider până se va întări, aproximativ 40 de minute.</span><br>9.  <span style="font-weight: 400;">După ce tortul s-a răcit, scoateți bordura detașabilă a formei și înlăturați atent folia alimentară.</span><br>10.  <span style="font-weight: 400;">Decorați tortul cu nuci mărunțite și cu bobițe de struguri.</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">După preferințe și gust, puteți adăuga boabe proaspete de struguri sau stafide în stratul de brânză, puneți esență sau zahăr de vanilie.&nbsp;</span><span style="font-weight: 400;">Torturile delicioase de sărbătoare, fără coacere au doar avantaje: este o variantă excelentă pentru sărbătorile pentru copii și pentru sărbătorile de familie, fiindcă arată foarte frumos și elegant.</span><br></div>]]></content>
+</em>   <span class="tick"></span><span style="font-weight: 400;">nuci – pentru decor</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">Vezi </span><a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external"><strong>Măsurarea ingredientelor</strong></a><br></div><br>[wp_ad_camp_3]<br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Topiți untul la bain-marie.</span><br>2.  <span style="font-weight: 400;">Mărunțiți biscuiții în firimituri fine până la omogenizare (cu ajutorul unui făcăleț sau blender) și amestecați-le cu untul topit. Așteptați până când amestecul se va răci un pic.</span><br>3.  <span style="font-weight: 400;">Luați o formă pentru tort și puneți o folie alimentară (astfel va fi mai ușor de scos tortul). Puneți în partea de jos a formei un strat uniform de amestec de biscuiți și unt, îndesați și dați la frigider timp de 1-2 ore.</span><br>4.  <span style="font-weight: 400;">Turnați un pahar de apă rece peste gelatină și lăsați-o să se umfle timp de 40-60 de minute.</span><br>5.  <span style="font-weight: 400;">Amestecați în blender zahărul, smântâna și brânza de vaci.</span><br>6.  <span style="font-weight: 400;">Puneți gelatina umflată la foc mic și amestecați continuu până la dizolvarea completă, apoi lăsați-o să se răcească.</span><br>7.  <span style="font-weight: 400;">Turnați gelatina dizolvată în masa de brânză și amestecați bine.</span><br>8.  <span style="font-weight: 400;">Puneți un strat de struguri pe blatul răcit și deasupra turnați crema de brânză, apoi dați la frigider până se va întări, aproximativ 40 de minute.</span><br>9.  <span style="font-weight: 400;">După ce tortul s-a răcit, scoateți bordura detașabilă a formei și înlăturați atent folia alimentară.</span><br>10.  <span style="font-weight: 400;">Decorați tortul cu nuci mărunțite și cu bobițe de struguri.</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">După preferințe și gust, puteți adăuga boabe proaspete de struguri sau stafide în stratul de brânză, puneți esență sau zahăr de vanilie.&nbsp;</span><span style="font-weight: 400;">Torturile delicioase de sărbătoare, fără coacere au doar avantaje: este o variantă excelentă pentru sărbătorile pentru copii și pentru sărbătorile de familie, fiindcă arată foarte frumos și elegant.</span><br></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere tortur
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de&amp;nbsp;o cană de ceai sau să încheiați frumos un prânz festiv.&lt;/span&gt;&lt;br&gt;
     
     </summary>
     
@@ -361,11 +183,9 @@
     <link href="http://nicolaivadim.github.io/prajitura-inteligenta/"/>
     <id>http://nicolaivadim.github.io/prajitura-inteligenta/</id>
     <published>2016-06-25T15:59:10.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:17.331Z</updated>
     
-    <content type="html"><![CDATA[<p>[wp_ad_camp_1]</p>
-<p>V-am pregătit o rețetă excelentă de prăjitură inteligentă, care este ușor de preparat, aromată și delicioasă. Pentru ce-i ce nu au auzit de acest desert minunat, va fi o adevărată descoperire. Prăjitura inteligentă se numește astfel, deoarece în cuptor puneți o compoziție lichidă, iar în final obțineți o prăjitură cu trei straturi separate, două de blat, iar în mijloc o cremă delicioasă de vanilie. Această stratificare are loc datorită cantității de grăsimi, care este diferită în componentele utilizate.</p>
-<p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/prajitura1.jpg" alt="prajitura1"></p>
+    <content type="html"><![CDATA[<p>V-am pregătit o rețetă excelentă de prăjitură inteligentă, care este ușor de preparat, aromată și delicioasă. Pentru ce-i ce nu au auzit de acest desert minunat, va fi o adevărată descoperire. Prăjitura inteligentă se numește astfel, deoarece în cuptor puneți o compoziție lichidă, iar în final obțineți o prăjitură cu trei straturi separate, două de blat, iar în mijloc o cremă delicioasă de vanilie. Această stratificare are loc datorită cantității de grăsimi, care este diferită în componentele utilizate.<br><a id="more"></a><br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/prajitura1.jpg" alt="prajitura1"></p>
 <div class="shortcode-ingredients">
 
 <h3 id="Ingrediente"><a href="#Ingrediente" class="headerlink" title="Ingrediente"></a>Ingrediente</h3><ul>
@@ -401,8 +221,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;[wp_ad_camp_1]&lt;/p&gt;
-&lt;p&gt;V-am pregătit o rețetă excelentă de prăjitură inteligentă, care este ușor de preparat, aromată și delicioasă. Pentr
+      &lt;p&gt;V-am pregătit o rețetă excelentă de prăjitură inteligentă, care este ușor de preparat, aromată și delicioasă. Pentru ce-i ce nu au auzit de acest desert minunat, va fi o adevărată descoperire. Prăjitura inteligentă se numește astfel, deoarece în cuptor puneți o compoziție lichidă, iar în final obțineți o prăjitură cu trei straturi separate, două de blat, iar în mijloc o cremă delicioasă de vanilie. Această stratificare are loc datorită cantității de grăsimi, care este diferită în componentele utilizate.&lt;br&gt;
     
     </summary>
     
@@ -424,21 +243,21 @@
     <link href="http://nicolaivadim.github.io/chiftelute-de-cartofi-o-cina-copioasa-doar-5-minute/"/>
     <id>http://nicolaivadim.github.io/chiftelute-de-cartofi-o-cina-copioasa-doar-5-minute/</id>
     <published>2016-06-25T15:51:30.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:21.255Z</updated>
     
-    <content type="html"><![CDATA[<p>Vă oferim o rețetă super rapidă de chifteluțe de cartofi. Aceste chifteluțe sunt nemaipomenite, foarte gustoase, rumene și moi în interior, ideale pentru o cină în sânul familiei. Chifteluțele de cartofi se prepară foarte simplu și ușor, sunt consistente, le puteți servi cu sos de ciuperci, smântână sau o salată proaspătă de legume. Sunt atât de gustoase încât dispar într-o clipă din farfurie.</p>
-<p>[wp_ad_camp_1]</p>
+    <content type="html"><![CDATA[<p>Vă oferim o rețetă super rapidă de chifteluțe de cartofi. Aceste chifteluțe sunt nemaipomenite, foarte gustoase, rumene și moi în interior, ideale pentru o cină în sânul familiei. Chifteluțele de cartofi se prepară foarte simplu și ușor, sunt consistente, le puteți servi cu sos de ciuperci, smântână sau o salată proaspătă de legume. Sunt atât de gustoase încât dispar într-o clipă din farfurie.<br><a id="more"></a> </p>
 <p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/chiftelute-de-cartofi.jpg" alt="chiftelute-de-cartofi"></p>
 <p>[wp_ad_camp_2]</p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   <span class="tick"></span><span style="font-weight: 400;">1 kg de cartofi</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">1 ceapă</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">4 ouă</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">2-3 linguri de făină</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">2 linguri de pesmeți măcinați</span>
 </em>   <span class="tick"></span><span style="font-weight: 400;">½ pahar de ulei</span><br><em>   <span class="tick"></span><span style="font-weight: 400;">100 g de cașcaval tare</span>
-</em>   <span class="tick"></span><span style="font-weight: 400;">sare si piper negru măcinat – după gust</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">Vezi </span><a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external"><strong>Măsurarea ingredientelor</strong></a><br></div><br>[wp_ad_camp_3]<br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Spălați și decojiți cartofii, puneți-i la fiert în apă cu sare. Lăsați să se răcească.</span><br>2.  <span style="font-weight: 400;">Curățiți ceapa, spălați-o și tăiați-o cubulețe.</span><br>3.  <span style="font-weight: 400;">Dați cașcavalul prin răzătoare medie.</span><br>4.  <span style="font-weight: 400;">Dați cartofii prin răzătoare medie, adăugați ceapa, 2 ouă și cașcavalul ras. Asezonați cu sare și piper și amestecați bine.</span><br>5.  <span style="font-weight: 400;">Bateți 2 ouă. Formați chifteluțele și dați-le prin făină, apoi înmuiați-le în ou, pesmeți și prăjiți-le într-o tigaie încinsă cu ulei, sau le puteți coace la cuptor până formează o crustă aurie.</span></div>]]></content>
+</em>   <span class="tick"></span><span style="font-weight: 400;">sare si piper negru măcinat – după gust</span><br><br><strong><em>Notă: </em></strong><span style="font-weight: 400;">Vezi </span><a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external"><strong>Măsurarea ingredientelor</strong></a><br></div><br>[wp_ad_camp_3]<br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Spălați și decojiți cartofii, puneți-i la fiert în apă cu sare. Lăsați să se răcească.</span><br>2.  <span style="font-weight: 400;">Curățiți ceapa, spălați-o și tăiați-o cubulețe.</span><br>3.  <span style="font-weight: 400;">Dați cașcavalul prin răzătoare medie.</span><br>4.  <span style="font-weight: 400;">Dați cartofii prin răzătoare medie, adăugați ceapa, 2 ouă și cașcavalul ras. Asezonați cu sare și piper și amestecați bine.</span><br>5.  <span style="font-weight: 400;">Bateți 2 ouă. Formați chifteluțele și dați-le prin făină, apoi înmuiați-le în ou, pesmeți și prăjiți-le într-o tigaie încinsă cu ulei, sau le puteți coace la cuptor până formează o crustă aurie.</span></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Vă oferim o rețetă super rapidă de chifteluțe de cartofi. Aceste chifteluțe sunt nemaipomenite, foarte gustoase, rumene și moi în interio
+      &lt;p&gt;Vă oferim o rețetă super rapidă de chifteluțe de cartofi. Aceste chifteluțe sunt nemaipomenite, foarte gustoase, rumene și moi în interior, ideale pentru o cină în sânul familiei. Chifteluțele de cartofi se prepară foarte simplu și ușor, sunt consistente, le puteți servi cu sos de ciuperci, smântână sau o salată proaspătă de legume. Sunt atât de gustoase încât dispar într-o clipă din farfurie.&lt;br&gt;
     
     </summary>
     
@@ -460,20 +279,21 @@
     <link href="http://nicolaivadim.github.io/cornulete-fragede-din-aluat-fin-de-branza-pur-si-simplu-se-topesc-gura/"/>
     <id>http://nicolaivadim.github.io/cornulete-fragede-din-aluat-fin-de-branza-pur-si-simplu-se-topesc-gura/</id>
     <published>2016-06-25T15:44:02.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:38:27.656Z</updated>
     
     <content type="html"><![CDATA[<p><span style="font-weight: 400;">Savoarea acestor delicioase cornulețe este de nedescris! Trebuie doar să le încercați ca să vă convingeți! Aluatul fraged și sfărâmicios cu umplutură aromată de scorțișoară, scăldate într-o ploaie caldă de zahăr pudră – poate fi ceva mai delicios? Sunt pur și simplu irezistibile!</span></p>
-<p>[wp_ad_camp_1]</p>
+<a id="more"></a> 
 <p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/prev1-8.jpg" alt="prev1-8"><br>[wp_ad_camp_2]</p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente pentru aluat<br><br><em>   <span style="font-weight: 400;">100 g de făină</span>
 </em>   <span style="font-weight: 400;">100 g de brânză de vaci</span><br><em>   <span style="font-weight: 400;">100 g de unt</span>
 </em>   <span style="font-weight: 400;">2 g de sare</span><br><em>   <span style="font-weight: 400;">1 gălbenuș de ou</span>
 </em>   2 g de zahăr<br><strong><em>Notă: </em></strong>Vezi <a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external"><strong>Măsurarea ingredientelor</strong></a><br><br></div><br><div class="shortcode-ingredients"><br><br>### Ingrediente pentru umplutură<br><br><em>   <span style="font-weight: 400;">1 lingură de zahăr</span>
-</em>   <span style="font-weight: 400;">2 g de scorțișoară</span><br><em>   zahăr pudră (pentru presărat)<br><strong><em>Notă: </em></strong>Vezi [<em>*Măsurarea ingredientelor</em></em>](<a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external">http://bucatarul.tv/masurarea-ingredientelor/</a>)<br><br></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Puneți făina cernută într-un bol mai adânc și adăugați untul tăiat cubulețe și brânza. Amestecați ingredientele până obțineți o masă sfărâmicioasă.</span><br>2.  <span style="font-weight: 400;">Adăugați gălbenușul de ou și frământați aluatul. Faceți o bilă, înveliți-o în folie de bucătărie și dați-o la frigider pentru 40 de minute.</span><br>3.  <span style="font-weight: 400;">Scoateți aluatul de la rece și întindeți-l (pe o suprafața pudrată cu făină) într-o foaie dreptunghiulară pe care o tăiați în bucăți triunghiulare. </span><br>4.  <span style="font-weight: 400;">Presărați triunghiurile cu amestecul de zahăr și scorțișoară și rulați-le, dându-le formă de cornuleț.</span><br>5.  <span style="font-weight: 400;">Aranjați cornulețele pe o tavă tapetată cu hârtie de copt și dați-le la congelator pentru 25-30 de minute.</span><br>6.  <span style="font-weight: 400;">Scoateți cornulețele de la rece și coaceți-le timp de 25-30 de minute, la temperatura de 200 de grade.</span><br>7.  <span style="font-weight: 400;">Scoateți cornulețele pe un grătar să se răcească, după care le presărați cu zahăr pudră.</span><br>8.  <span style="font-weight: 400;">Savurați cu plăcere!</span><br></div>]]></content>
+</em>   <span style="font-weight: 400;">2 g de scorțișoară</span><br><em>   zahăr pudră (pentru presărat)<br><strong><em>Notă: </em></strong>Vezi [<em>*Măsurarea ingredientelor</em></em>](<a href="http://bucatarul.tv/masurarea-ingredientelor/" target="_blank" rel="external">http://bucatarul.tv/masurarea-ingredientelor/</a>)<br><br></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Puneți făina cernută într-un bol mai adânc și adăugați untul tăiat cubulețe și brânza. Amestecați ingredientele până obțineți o masă sfărâmicioasă.</span><br>2.  <span style="font-weight: 400;">Adăugați gălbenușul de ou și frământați aluatul. Faceți o bilă, înveliți-o în folie de bucătărie și dați-o la frigider pentru 40 de minute.</span><br>3.  <span style="font-weight: 400;">Scoateți aluatul de la rece și întindeți-l (pe o suprafața pudrată cu făină) într-o foaie dreptunghiulară pe care o tăiați în bucăți triunghiulare. </span><br>4.  <span style="font-weight: 400;">Presărați triunghiurile cu amestecul de zahăr și scorțișoară și rulați-le, dându-le formă de cornuleț.</span><br>5.  <span style="font-weight: 400;">Aranjați cornulețele pe o tavă tapetată cu hârtie de copt și dați-le la congelator pentru 25-30 de minute.</span><br>6.  <span style="font-weight: 400;">Scoateți cornulețele de la rece și coaceți-le timp de 25-30 de minute, la temperatura de 200 de grade.</span><br>7.  <span style="font-weight: 400;">Scoateți cornulețele pe un grătar să se răcească, după care le presărați cu zahăr pudră.</span><br>8.  <span style="font-weight: 400;">Savurați cu plăcere!</span><br></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Savoarea acestor delicioase cornulețe este de nedescris! Trebuie doar să le încercați ca să vă convingeți
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Savoarea acestor delicioase cornulețe este de nedescris! Trebuie doar să le încercați ca să vă convingeți! Aluatul fraged și sfărâmicios cu umplutură aromată de scorțișoară, scăldate într-o ploaie caldă de zahăr pudră – poate fi ceva mai delicios? Sunt pur și simplu irezistibile!&lt;/span&gt;&lt;/p&gt;
     
     </summary>
     
@@ -495,10 +315,10 @@
     <link href="http://nicolaivadim.github.io/tort-egiptean-cel-mai-rafinat-si-nobil-desert/"/>
     <id>http://nicolaivadim.github.io/tort-egiptean-cel-mai-rafinat-si-nobil-desert/</id>
     <published>2016-06-25T15:01:51.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:16.627Z</updated>
     
     <content type="html"><![CDATA[<p><span style="font-weight: 400;">La prima vedere, acest tort extrem de simpatic și atrăgător, pare a fi foarte complicat de preparat. Însă, nu este dificil deloc! Echipa</span><strong> Bucătarul.tv</strong><span style="font-weight: 400;"> ți-a pregătit cea mai reușită rețetă a acestui magnific desert. Gustul nucilor din blat, crema fină de vanilie și stratul crocant de zahăr caramelizat cu frișcă, oferă o combinație rafinată de gusturi și arome, de care sigur te vei îndrăgosti din prima!</span></p>
-<p>[wp_ad_camp_1]</p>
+<a id="more"></a> 
 <p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/original-21-1.jpg" alt="original-21-1"></p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente pentru blat<br><br><em>   <span style="font-weight: 400;">3 albușuri de ou </span>
 </em>   <span style="font-weight: 400;">2.5 linguri de zahăr</span><br><em>   <span style="font-weight: 400;">½ lingură de făină</span>
@@ -506,11 +326,12 @@
 </em>   <span style="font-weight: 400;">10 linguri de zahăr</span><br><em>   <span style="font-weight: 400;">5 linguri de făină</span>
 </em>   <span style="font-weight: 400;">2 pachețele de zahăr vanilat</span><br><em>   <span style="font-weight: 400;">350 ml de lapte</span>
 </em>   <span style="font-weight: 400;">170 g de unt</span><br></div><br><div class="shortcode-ingredients"><br><br>### Ingrediente pentru crema crocantă<br><br><em>   <span style="font-weight: 400;">350 ml de frișcă</span>
-</em>   <span style="font-weight: 400;">200 g de zahăr</span><br><em>   <span style="font-weight: 400;">120 g de nuci sau alune mărunțite</span><br></em></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;"><strong>Pregătiți crema de vanilie</strong>. Puneți într-o cratiță, la foc mic, gălbenușurile, zahărul, făina, zahărul vanilat și laptele. Amestecând energic, aduceți compoziția până la punctul de fierbere, apoi scoateți-l imediat de la foc. Continuați să amestecați încă 2 minute. Lăsați să se răcească, apoi adăugați untul tăiat în bucăți și bateți amestecul cu ajutorul mixerului până la omogenizare.</span><br>2.  <span style="font-weight: 400;"><strong>Între timp pregătiți foile de blat</strong>. Bateți albușurile spumă cu ajutorul mixerului. Adăugați zahărul și bateți în continuare amestecul până devine neted și capătă o nuanță albă-lucioasă.</span><br>3.  <span style="font-weight: 400;">Adăugați făina și nucile și amestecați aluatul până la omogenizare. </span><br>4.  <span style="font-weight: 400;">Tapetați o tavă sau formă cu hârtie de copt (sau ungeți cu ulei) și turnați aluatul pregătit. </span><br>5.  <span style="font-weight: 400;">Preîncălziți cuptorul până la 170 de grade și coaceți blatul timp de 20 de minute. Lăsați apoi să se răcească. Repetați procedeul și cu celelalte 2 blaturi.</span><br>6.  <span style="font-weight: 400;"><strong>Pregătiți crema crocantă.</strong> Topiți zahărul într-o cratiță, caramelizați-l puțin, apoi turnați-l imediat pe hârtie de copt.</span><br>7.  <span style="font-weight: 400;">Zahărul caramelizat se va întări (răci) foarte repede. Acoperiți-l cu încă o bucată de hârtie de copt și, cu ajutorul unui sucitor, fărâmițați zahărul în bucățele mici. Aveți grijă să nu îl faceți prea mărunt (praf), deoarece acesta trebuie să alcătuiască stratul crocant al tortului.</span><br>8.  <span style="font-weight: 400;">Bateți frișca cu ajutorul mixerului, până devine spumă. Adăugați zahărul caramelizat și nucile (sau alunele) și amestecați ușor compoziția.</span><br>9.  <span style="font-weight: 400;"><strong>Asamblați tortul</strong>. Întindeți<em>* ⅓</em> din crema de vanilie peste prima foaie de blat și adăugați o parte din crema crocantă, nivelând-o uniform pe toată suprafața. Repetați procedeul pentru următoarele 2 foi (blat + crema de vanilie + crema crocantă).</span><br>10.  <span style="font-weight: 400;"> La final „îmbrăcați” tortul în crema crocantă și ornați cu nuci.</span><br></div>]]></content>
+</em>   <span style="font-weight: 400;">200 g de zahăr</span><br><em>   <span style="font-weight: 400;">120 g de nuci sau alune mărunțite</span><br></em></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;"><strong>Pregătiți crema de vanilie</strong>. Puneți într-o cratiță, la foc mic, gălbenușurile, zahărul, făina, zahărul vanilat și laptele. Amestecând energic, aduceți compoziția până la punctul de fierbere, apoi scoateți-l imediat de la foc. Continuați să amestecați încă 2 minute. Lăsați să se răcească, apoi adăugați untul tăiat în bucăți și bateți amestecul cu ajutorul mixerului până la omogenizare.</span><br>2.  <span style="font-weight: 400;"><strong>Între timp pregătiți foile de blat</strong>. Bateți albușurile spumă cu ajutorul mixerului. Adăugați zahărul și bateți în continuare amestecul până devine neted și capătă o nuanță albă-lucioasă.</span><br>3.  <span style="font-weight: 400;">Adăugați făina și nucile și amestecați aluatul până la omogenizare. </span><br>4.  <span style="font-weight: 400;">Tapetați o tavă sau formă cu hârtie de copt (sau ungeți cu ulei) și turnați aluatul pregătit. </span><br>5.  <span style="font-weight: 400;">Preîncălziți cuptorul până la 170 de grade și coaceți blatul timp de 20 de minute. Lăsați apoi să se răcească. Repetați procedeul și cu celelalte 2 blaturi.</span><br>6.  <span style="font-weight: 400;"><strong>Pregătiți crema crocantă.</strong> Topiți zahărul într-o cratiță, caramelizați-l puțin, apoi turnați-l imediat pe hârtie de copt.</span><br>7.  <span style="font-weight: 400;">Zahărul caramelizat se va întări (răci) foarte repede. Acoperiți-l cu încă o bucată de hârtie de copt și, cu ajutorul unui sucitor, fărâmițați zahărul în bucățele mici. Aveți grijă să nu îl faceți prea mărunt (praf), deoarece acesta trebuie să alcătuiască stratul crocant al tortului.</span><br>8.  <span style="font-weight: 400;">Bateți frișca cu ajutorul mixerului, până devine spumă. Adăugați zahărul caramelizat și nucile (sau alunele) și amestecați ușor compoziția.</span><br>9.  <span style="font-weight: 400;"><strong>Asamblați tortul</strong>. Întindeți<em>* ⅓</em> din crema de vanilie peste prima foaie de blat și adăugați o parte din crema crocantă, nivelând-o uniform pe toată suprafața. Repetați procedeul pentru următoarele 2 foi (blat + crema de vanilie + crema crocantă).</span><br>10.  <span style="font-weight: 400;"> La final „îmbrăcați” tortul în crema crocantă și ornați cu nuci.</span><br></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;La prima vedere, acest tort extrem de simpatic și atrăgător, pare a fi foarte complicat de preparat. Însă
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;La prima vedere, acest tort extrem de simpatic și atrăgător, pare a fi foarte complicat de preparat. Însă, nu este dificil deloc! Echipa&lt;/span&gt;&lt;strong&gt; Bucătarul.tv&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; ți-a pregătit cea mai reușită rețetă a acestui magnific desert. Gustul nucilor din blat, crema fină de vanilie și stratul crocant de zahăr caramelizat cu frișcă, oferă o combinație rafinată de gusturi și arome, de care sigur te vei îndrăgosti din prima!&lt;/span&gt;&lt;/p&gt;
     
     </summary>
     
@@ -532,10 +353,9 @@
     <link href="http://nicolaivadim.github.io/550-g-de-cascaval-oua-si-faina-si-de-ce-nu-stiut-pana-acum-de-aceasta-minunatie/"/>
     <id>http://nicolaivadim.github.io/550-g-de-cascaval-oua-si-faina-si-de-ce-nu-stiut-pana-acum-de-aceasta-minunatie/</id>
     <published>2016-06-25T08:03:26.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:22.095Z</updated>
     
-    <content type="html"><![CDATA[<p>Gogoșile cu cașcaval pregătite acasă sunt cele mai delicioase. Deși mai rar, dar îmi alint familia cu astfel de bunătăți. Sunt&nbsp;atât de gustoase, că vrei să recomanzi tuturor această rețetă. Prietenele mele mi-au mulțumit și mi-au cerut și sfaturi pentru o rețetă atât de reușită.</p>
-<p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/gogosi-cu-cascaval.jpg" alt="gogosi-cu-cascaval"></p>
+    <content type="html"><![CDATA[<p>Gogoșile cu cașcaval pregătite acasă sunt cele mai delicioase. Deși mai rar, dar îmi alint familia cu astfel de bunătăți. Sunt&nbsp;atât de gustoase, că vrei să recomanzi tuturor această rețetă. Prietenele mele mi-au mulțumit și mi-au cerut și sfaturi pentru o rețetă atât de reușită.<br><a id="more"></a><br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/gogosi-cu-cascaval.jpg" alt="gogosi-cu-cascaval"></p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   <span class="tick"></span>500 g mozzarella sau cașcaval tare
 </em>   <span class="tick"></span>3 linguri de parmezan ras<br><em>   <span class="tick"></span>1 ou
 </em>   <span class="tick"></span>100 g de făină<br><em>   <span class="tick"></span>5 lingurițe de oregano
@@ -544,11 +364,12 @@
    <span class="tick"></span>500 g mozzarella sau cașcaval tare<br><em>   <span class="tick"></span>3 linguri de parmezan ras
 </em>   <span class="tick"></span>1 ou<br><em>   <span class="tick"></span>100 g de făină
 </em>   <span class="tick"></span>5 lingurițe de oregano<br><em>   <span class="tick"></span>pesmet
-</em>   <span class="tick"></span>ulei</div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  Amestecați cașcavalul tare dat prin răzătoare&nbsp;sau mozzarella cu ou și parmezan.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/1-12.jpg" alt="1"><br>2.  Adăugați făina și oregano.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/2-8.jpg" alt="2"><br>3.  Faceți din amestec un aluat mai vârtos.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/3-8.jpg" alt="3"><br>4.  Formați mici gogoși. Această cantitate este calculată pentru aproximativ 40 de gogoși.&nbsp;Vor fi suficiente pentru toți.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/4-8.jpg" alt="4"><br>5.  Rostogoliți gogoșile prin pesmet.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/5-7.jpg" alt="5"><br>6.  Rămâne doar să prăjiți aceste minunății în ulei.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/6-5.jpg" alt="6"><br>7.  Gogoșile aurii ce se topesc în gură sunt gata!<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/7-4.jpg" alt="7"><br>8.  Cred că e păcat dacă nu pregătești acest minunat fel de bucate.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/8-2.jpg" alt="8"></div>]]></content>
+</em>   <span class="tick"></span>ulei</div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  Amestecați cașcavalul tare dat prin răzătoare&nbsp;sau mozzarella cu ou și parmezan.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/1-12.jpg" alt="1"><br>2.  Adăugați făina și oregano.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/2-8.jpg" alt="2"><br>3.  Faceți din amestec un aluat mai vârtos.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/3-8.jpg" alt="3"><br>4.  Formați mici gogoși. Această cantitate este calculată pentru aproximativ 40 de gogoși.&nbsp;Vor fi suficiente pentru toți.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/4-8.jpg" alt="4"><br>5.  Rostogoliți gogoșile prin pesmet.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/5-7.jpg" alt="5"><br>6.  Rămâne doar să prăjiți aceste minunății în ulei.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/6-5.jpg" alt="6"><br>7.  Gogoșile aurii ce se topesc în gură sunt gata!<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/7-4.jpg" alt="7"><br>8.  Cred că e păcat dacă nu pregătești acest minunat fel de bucate.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/8-2.jpg" alt="8"></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Gogoșile cu cașcaval pregătite acasă sunt cele mai delicioase. Deși mai rar, dar îmi alint familia cu astfel de bunătăți. Sunt&amp;nbsp;atât 
+      &lt;p&gt;Gogoșile cu cașcaval pregătite acasă sunt cele mai delicioase. Deși mai rar, dar îmi alint familia cu astfel de bunătăți. Sunt&amp;nbsp;atât de gustoase, că vrei să recomanzi tuturor această rețetă. Prietenele mele mi-au mulțumit și mi-au cerut și sfaturi pentru o rețetă atât de reușită.&lt;br&gt;
     
     </summary>
     
@@ -570,18 +391,18 @@
     <link href="http://nicolaivadim.github.io/placinte-cu-sunca-si-cascaval-15-minute/"/>
     <id>http://nicolaivadim.github.io/placinte-cu-sunca-si-cascaval-15-minute/</id>
     <published>2016-06-25T07:57:54.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:17.979Z</updated>
     
-    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Plăcintele cu șuncă și cașcaval fac parte din categoria bucatelor delicioase, care se prepară repede și la fel de repede se mănâncă. Atunci când nu aveți mult timp pentru gătit, dar oaspeții bat la ușă sau pur și simplu nu mai aveți pâine în casă, atunci vă ajută aceste plăcinte. Plăcintele apetisante și aromate sunt opțiunea ideală pentru micul dejun sau prânz. Această gustare este populară în întreaga lume de sute de ani și este preferată de toți gurmanzii pentru simplitatea și minimalismul rețetei și gustul delicios.</span></p>
-<p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/turte-cașcaval.jpg" alt="turte-cașcaval"></p>
+    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Plăcintele cu șuncă și cașcaval fac parte din categoria bucatelor delicioase, care se prepară repede și la fel de repede se mănâncă. Atunci când nu aveți mult timp pentru gătit, dar oaspeții bat la ușă sau pur și simplu nu mai aveți pâine în casă, atunci vă ajută aceste plăcinte. Plăcintele apetisante și aromate sunt opțiunea ideală pentru micul dejun sau prânz. Această gustare este populară în întreaga lume de sute de ani și este preferată de toți gurmanzii pentru simplitatea și minimalismul rețetei și gustul delicios.</span><br><a id="more"></a><br><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/turte-cașcaval.jpg" alt="turte-cașcaval"></p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   <span style="font-weight: 400;">1 pahar de chefir sau lapte acru</span>
 </em>   <span style="font-weight: 400;">1 pahar de cașcaval tare (ras)</span><br><em>   <span style="font-weight: 400;">1 pahar de șuncă (salam, crenvurști dați prin răzătoare)</span>
 </em>   <span style="font-weight: 400;">2 pahare de făină</span><br><em>   <span style="font-weight: 400;">0.5 linguriță de sare</span>
-</em>   <span style="font-weight: 400;">0.5 linguriță de zahăr</span><br><em>   <span style="font-weight: 400;">0.5 linguriță de bicarbonat de sodiu</span><br><em>*<em>Notă:</em></em></em><span style="font-weight: 400;"> 1 pahar = 250 ml</span><br><br></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Adăugați în chefir sarea, zahărul și bicarbonatul de sodiu, amestecați bine.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t1.jpg" alt="t1"></span><br>2.  <span style="font-weight: 400;">Puneți cașcavalul ras și făina. Amestecați bine și frământați aluatul.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t2.jpg" alt="t2"></span><br>3.  <span style="font-weight: 400;">Împărțiți aluatul în câteva biluțe, întindeți fiecare bilă sub formă de turtă și puneți umplutura de șuncă. Puteți pune alt tip de cașcaval, la fel vor fi foarte gustoase. Lipiți marginile și rulați un pic.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t3.jpg" alt="t3"></span><br>4.  <span style="font-weight: 400;">Prăjiți plăcintele într-o tigaie încinsă cu ulei, pe ambele părți, la foc mediu, acoperite cu capac.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/turte-ca%C8%99caval-1.jpg" alt="turte cașcaval"></span><br></div>]]></content>
+</em>   <span style="font-weight: 400;">0.5 linguriță de zahăr</span><br><em>   <span style="font-weight: 400;">0.5 linguriță de bicarbonat de sodiu</span><br><em>*<em>Notă:</em></em></em><span style="font-weight: 400;"> 1 pahar = 250 ml</span><br><br></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Adăugați în chefir sarea, zahărul și bicarbonatul de sodiu, amestecați bine.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t1.jpg" alt="t1"></span><br>2.  <span style="font-weight: 400;">Puneți cașcavalul ras și făina. Amestecați bine și frământați aluatul.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t2.jpg" alt="t2"></span><br>3.  <span style="font-weight: 400;">Împărțiți aluatul în câteva biluțe, întindeți fiecare bilă sub formă de turtă și puneți umplutura de șuncă. Puteți pune alt tip de cașcaval, la fel vor fi foarte gustoase. Lipiți marginile și rulați un pic.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/t3.jpg" alt="t3"></span><br>4.  <span style="font-weight: 400;">Prăjiți plăcintele într-o tigaie încinsă cu ulei, pe ambele părți, la foc mediu, acoperite cu capac.<br><img src="http://cdn.bucatarul.tv/wp-content/uploads/2016/03/turte-ca%C8%99caval-1.jpg" alt="turte cașcaval"></span><br></div>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plăcintele cu șuncă și cașcaval fac parte din categoria bucatelor delicioase, care se prepară repede și l
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Plăcintele cu șuncă și cașcaval fac parte din categoria bucatelor delicioase, care se prepară repede și la fel de repede se mănâncă. Atunci când nu aveți mult timp pentru gătit, dar oaspeții bat la ușă sau pur și simplu nu mai aveți pâine în casă, atunci vă ajută aceste plăcinte. Plăcintele apetisante și aromate sunt opțiunea ideală pentru micul dejun sau prânz. Această gustare este populară în întreaga lume de sute de ani și este preferată de toți gurmanzii pentru simplitatea și minimalismul rețetei și gustul delicios.&lt;/span&gt;&lt;br&gt;
     
     </summary>
     
@@ -603,10 +424,10 @@
     <link href="http://nicolaivadim.github.io/placinta-cu-piept-de-pui-si-cascaval-o-mancare-sanatoasa-cu-putine-calorii/"/>
     <id>http://nicolaivadim.github.io/placinta-cu-piept-de-pui-si-cascaval-o-mancare-sanatoasa-cu-putine-calorii/</id>
     <published>2016-06-25T03:29:23.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:39:18.859Z</updated>
     
     <content type="html"><![CDATA[<p>Vă oferim o rețetă excelentă de plăcintă cu pui și cașcaval. Plăcinta este foarte ușoară, cu puține calorii, gustoasă și ideală pentru prânz sau cină. Această rețetă este foarte simplă și rapid de preparat, plăcinta poate fi savurată chiar și de cei care țin dietă. Încercați și dumneavoastră această rețetă sănătoasă, deliciosă și consistentă și veți avea doar de câștigat!</p>
-<p>[wp_ad_camp_2]</p>
+<a id="more"></a> 
 <p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/placinta.jpg" alt="placinta"></p>
 <p>&nbsp;</p>
 <div class="shortcode-ingredients"><br><br>### Ingrediente<br><br><em>   <span style="font-weight: 400;">300 g de file de piept de pui fiert</span>
@@ -614,55 +435,12 @@
 </em>   <span style="font-weight: 400;">150 ml de lapte</span><br><em>   <span style="font-weight: 400;">50 g de cașcaval tare cu conținut scăzut de grăsimi</span>
 </em>   <span style="font-weight: 400;">½ linguriță de praf de copt</span><br><em>   <span style="font-weight: 400;">condimente (piper negru, curry, ierburi italiene) – după gust</span>
 </em>   <span style="font-weight: 400;">sare după gust</span><br>[wp_ad_camp<em>1]<br><br></em></div><br><div class="shortcode-directions instructions"><br><br>### Mod de preparare<br><br>1.  <span style="font-weight: 400;">Tăiați mărunt fileul de pui.</span><br>2.  <span style="font-weight: 400;">Bateți ouăle cu sare și lapte, adăugați făina, praful de copt și condimentele. Veți obține un aluat nu prea dens. Puneți în aluat bucățile de carne și radeți cașcavalul. Amestecați bine și puneți aluatul într-o formă de copt.</span><br>3.  <span style="font-weight: 400;">Coaceți plăcinta în cuptorul preîncălzit la 200 de grade, timp de 35-40 de minute (până se rumenește crusta). Puteți prepara această plăcintă nu doar la cuptor, ci și la Multicooker.
-<strong>Notă:</strong>_ Cei ce preferă dovleceii pot înfrumuseța plăcinta cu un strat din dovlecei tăiați rondele peste care se rade cașcaval.<br>[wp_ad_camp_3]<br></span><br></div>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Vă oferim o rețetă excelentă de plăcintă cu pui și cașcaval. Plăcinta este foarte ușoară, cu puține calorii, gustoasă și ideală pentru pr
-    
-    </summary>
-    
-      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
-    
-      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
-    
-    
-      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
-    
-      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
-    
-      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ciuperci umplute cu roșii și mozzarella - alegerea ideală pentru cină!</title>
-    <link href="http://nicolaivadim.github.io/ciuperci-umplute-cu-rosii-si-mozzarella-alegerea-ideala-pentru-cina/"/>
-    <id>http://nicolaivadim.github.io/ciuperci-umplute-cu-rosii-si-mozzarella-alegerea-ideala-pentru-cina/</id>
-    <published>2016-05-29T14:57:12.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
-    
-    <content type="html"><![CDATA[<p>[wp_ad_camp_2]</p>
-<p>&nbsp;</p>
-<p><div class="fb-video" data-href="https://www.facebook.com/vkusno.adme/videos/228019440904793/" data-width="700" data-allowfullscreen="true" data-autoplay="true" data-show-captions="true"></div><br>&nbsp;<br>[wp_ad_camp_1]<br>&nbsp;<br>Veți avea nevoie de următoarele ingrediente:</p>
-<ul>
-<li>ciuperci</li>
-<li>ulei de măsline</li>
-<li>usturoi tocat mărunt</li>
-<li>mozzarella</li>
-<li>roșii cherry</li>
-<li>sare</li>
-<li>piper negru</li>
-<li>ierburi italiene<br>&nbsp;</li>
-</ul>
-<p>[wp_ad_camp_3]<br>Poftă mare să aveți!</p>
+<strong>Notă:</strong>_ Cei ce preferă dovleceii pot înfrumuseța plăcinta cu un strat din dovlecei tăiați rondele peste care se rade cașcaval.<br>[wp_ad_camp_3]<br></span><br></div>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;[wp_ad_camp_2]&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;div class=&quot;fb-video&quot; data-href=&quot;https://www.facebook.com/vkusno.adme/videos/228019440904793/&quot; data-w
+      &lt;p&gt;Vă oferim o rețetă excelentă de plăcintă cu pui și cașcaval. Plăcinta este foarte ușoară, cu puține calorii, gustoasă și ideală pentru prânz sau cină. Această rețetă este foarte simplă și rapid de preparat, plăcinta poate fi savurată chiar și de cei care țin dietă. Încercați și dumneavoastră această rețetă sănătoasă, deliciosă și consistentă și veți avea doar de câștigat!&lt;/p&gt;
     
     </summary>
     
@@ -684,10 +462,10 @@
     <link href="http://nicolaivadim.github.io/5-torturi-delicioase-si-originale-fara-coacere/"/>
     <id>http://nicolaivadim.github.io/5-torturi-delicioase-si-originale-fara-coacere/</id>
     <published>2016-05-27T16:54:30.000Z</published>
-    <updated>2016-08-31T12:26:02.969Z</updated>
+    <updated>2016-08-31T12:37:42.360Z</updated>
     
     <content type="html"><![CDATA[<p>Majoritatea dintre noi adoră dulciurile, dar în special torturile! Fiecare gospodină are rețeta ei preferată, dar uneori oricum dorim să încercăm ceva nou. Tortul de casă întotdeauna este delicios, dar de multe ori ne ia mai mult de o oră să-l pregătim. Prin urmare vă prezentăm 5 rețete de torturi apetisante care se pregătesc rapid. Nici măcar nu va trebui să porniți cuptorul.</p>
-<p>[wp_ad_camp_3]</p>
+<a id="more"></a> 
 <h3 id="TORT-“FANTASY”-CU-CIOCOLATA-SI-BRANZA"><a href="#TORT-“FANTASY”-CU-CIOCOLATA-SI-BRANZA" class="headerlink" title="TORT “FANTASY” CU CIOCOLATĂ ȘI BRÂNZĂ**"></a>TORT “FANTASY” CU CIOCOLATĂ ȘI BRÂNZĂ**</h3><p><img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/05/19.jpg" alt="19">**</p>
 <div class="shortcode-ingredients"><br><br>### INGREDIENTE<br><br></div><br><div class="thecategory"><br><br><em>   450 g de brânză de vaci
 </em>   450 g de smântână sau iaurt de casă<br><em>   1/2 pahar de lapte
@@ -749,7 +527,49 @@
     
     <summary type="html">
     
-      &lt;p&gt;Majoritatea dintre noi adoră dulciurile, dar în special torturile! Fiecare gospodină are rețeta ei preferată, dar uneori oricum dorim să 
+      &lt;p&gt;Majoritatea dintre noi adoră dulciurile, dar în special torturile! Fiecare gospodină are rețeta ei preferată, dar uneori oricum dorim să încercăm ceva nou. Tortul de casă întotdeauna este delicios, dar de multe ori ne ia mai mult de o oră să-l pregătim. Prin urmare vă prezentăm 5 rețete de torturi apetisante care se pregătesc rapid. Nici măcar nu va trebui să porniți cuptorul.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Încearcă o rețetă uimitoare: Pizza rapidă la tigaie!</title>
+    <link href="http://nicolaivadim.github.io/pizza-super-rapida-la-tigaie/"/>
+    <id>http://nicolaivadim.github.io/pizza-super-rapida-la-tigaie/</id>
+    <published>2016-05-27T16:25:20.000Z</published>
+    <updated>2016-08-31T12:38:36.248Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Vă oferim o rețetă ingenioasă, simplă și delicioasă de pizza. Această pizza face parte din rețetele care se prepară foarte repede din ingrediente pe care le aveți în frigider. Pizza la tigaie este o gustare perfectă atunci când nu aveți mult timp la dispoziție și doriți ceva rapid, gustos și ușor de preparat. Aluatul este unul lichid, preparat din smântână, maioneză, ouă și făină. Cu toate astea are un gust excelent, se mănâncă foarte repede și merită să o încercați!<br><a id="more"></a><br><img src="http://bucatarul.tv/wp-content/uploads/2016/04/pizza-5.jpg" alt="pizza"></span></p>
+<p>[wp_ad_camp_3]</p>
+<h3 id="Ingrediente"><a href="#Ingrediente" class="headerlink" title="Ingrediente"></a>Ingrediente</h3><ul>
+<li>4 linguri de smântână</li>
+<li>4 linguri de maioneză</li>
+<li>2 ouă</li>
+<li>9 linguri rase de făină<br>[wp_ad_camp_1]</li>
+</ul>
+<h3 id="Mod-de-preparare"><a href="#Mod-de-preparare" class="headerlink" title="Mod de preparare"></a>Mod de preparare</h3><ol>
+<li><span style="font-weight: 400;">Amestecați toate ingredientele pentru aluat. Veți obține un aluat lichid de consistența smântânii. Turnați aluatul în tigaie și deasupra puneți umplutura preferată (cârnați, șuncă, ouă, roșii și altele).</span></li>
+<li><span style="font-weight: 400;">Dacă doriți puneți deasupra un strat fin de maioneză și apoi un strat generos de cașcaval ras. Vă recomandăm să puneți un strat dens de cașcaval.</span></li>
+<li><span style="font-weight: 400;">Puneți tigaia la foc mediu pe câteva minute. Acoperiți imediat tigaia cu un capac și când observați că cașcavalul începe să se topească, luați tigaia de pe foc. Pizza este gata, serviți-o fierbinte!</span><br>Poftă mare să aveți!!!</li>
+</ol>
+<p>&nbsp;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Vă oferim o rețetă ingenioasă, simplă și delicioasă de pizza. Această pizza face parte din rețetele care se prepară foarte repede din ingrediente pe care le aveți în frigider. Pizza la tigaie este o gustare perfectă atunci când nu aveți mult timp la dispoziție și doriți ceva rapid, gustos și ușor de preparat. Aluatul este unul lichid, preparat din smântână, maioneză, ouă și făină. Cu toate astea are un gust excelent, se mănâncă foarte repede și merită să o încercați!&lt;br&gt;
     
     </summary>
     
