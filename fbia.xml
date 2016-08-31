@@ -366,6 +366,45 @@
         ]]>
       </content:encoded>
     </item><item>
+      <title>Asset Folder</title>
+      <link>http://nicolaivadim.github.io/asset-folder/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/asset-folder/</guid>
+      <pubDate>2016-08-30T12:57:39.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;img src=&quot;/asset-folder/image.jpg&quot; alt=&quot;This is an example image&quot; title=&quot;This is an example image&quot;&gt;
+</description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/asset-folder/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Asset Folder">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>Asset Folder</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T12:57:39.000Z">2016-08-30T12:57:39.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.619Z">2016-08-31T11:41:21.619Z</time></header>
+                <p>{% asset_img image.jpg &quot;This is an example image&quot; %}</p>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
       <title>Clătite cu cașcaval</title>
       <link>http://nicolaivadim.github.io/clatite-cu-cascaval/</link>
       <guid isPermaLink="true">http://nicolaivadim.github.io/clatite-cu-cascaval/</guid>
@@ -422,45 +461,6 @@
 &lt;/div&gt;
 Vă dorim poftă bună alături de cei dragi!</li>
 </ol>
-
-                <footer><!-- Copyright details for your article -->
-                  <small>Copyright imBOLD</small>
-                </footer>
-              </article>
-            </body>
-          </html>
-        ]]>
-      </content:encoded>
-    </item><item>
-      <title>Asset Folder</title>
-      <link>http://nicolaivadim.github.io/asset-folder/</link>
-      <guid isPermaLink="true">http://nicolaivadim.github.io/asset-folder/</guid>
-      <pubDate>2016-08-30T12:57:39.000Z</pubDate>
-      <author>imBOLD</author>
-      <description>&lt;img src=&quot;/asset-folder/image.jpg&quot; alt=&quot;This is an example image&quot; title=&quot;This is an example image&quot;&gt;
-</description>
-      <content:encoded>
-        <![CDATA[
-          <!doctype html>
-          <html lang="en" prefix="op: http://media.facebook.com/op#">
-            <head>
-              <meta charset="utf-8">
-              <link rel="canonical" href="http://nicolaivadim.github.io/asset-folder/">
-              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Asset Folder">
-              <meta property="og:description" content="">
-              <meta property="og:image" content=""></head>
-            <body>
-              <article>
-                <header>
-                  <!-- The title and subtitle shown in your Instant Article -->
-                  <h1>Asset Folder</h1><address>
-                    <a>imBOLD</a>
-                  </address>
-
-                  <!-- The date and time when your article was originally published -->
-                  <time class="op-published" datetime="2016-08-30T12:57:39.000Z">2016-08-30T12:57:39.000Z</time><!-- The date and time when your article was last updated -->
-                  <time class="op-modified" dateTime="2016-08-31T11:41:21.619Z">2016-08-31T11:41:21.619Z</time></header>
-                <p>{% asset_img image.jpg &quot;This is an example image&quot; %}</p>
 
                 <footer><!-- Copyright details for your article -->
                   <small>Copyright imBOLD</small>
@@ -810,6 +810,78 @@ Poftă mare să aveți!!!</li>
         ]]>
       </content:encoded>
     </item><item>
+      <title>Tort “Smarald” – un desert de brânză cu fructe fără coacere</title>
+      <link>http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/</guid>
+      <pubDate>2016-06-25T16:08:39.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de&amp;nbsp;o cană de ceai sau să încheiați frumos un prânz festiv.&lt;/span&gt;&lt;br&gt;</description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Tort “Smarald” – un desert de brânză cu fructe fără coacere">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>Tort “Smarald” – un desert de brânză cu fructe fără coacere</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-06-25T16:08:39.000Z">2016-06-25T16:08:39.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T12:39:15.951Z">2016-08-31T12:39:15.951Z</time></header>
+                <p>&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de o cană de ceai sau să încheiați frumos un prânz festiv.&lt;/span&gt;
+&lt;!-- more --&gt;
+<img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/tort-de-br%C3%A2nz%C4%83.jpg" alt="tort-de-brânză">
+[wp_ad_camp_2]
+&lt;div class=&quot;shortcode-ingredients&quot;&gt;</p>
+<h3>Ingrediente</h3>
+<ul>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;200 g de brânză de vaci (brânza pentru umplutură trebuie să fie cu un conținut ridicat de grăsimi și trebuie mărunțită cu ajutorul blenderului)&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;500 g de smântână de 20%&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;180 g de unt&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;400 g de biscuiți sfărâmicioși&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;30 g de gelatină&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;1 pahar de zahăr&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;500-700 g de struguri&lt;/span&gt;</li>
+<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;nuci – pentru decor&lt;/span&gt;</li>
+</ul>
+<p><strong>_Notă: _</strong>&lt;span style=&quot;font-weight: 400;&quot;&gt;Vezi &lt;/span&gt;<a href="http://bucatarul.tv/masurarea-ingredientelor/"><strong>Măsurarea ingredientelor</strong></a>
+&lt;/div&gt;
+[wp_ad_camp_3]
+&lt;div class=&quot;shortcode-directions instructions&quot;&gt;</p>
+<h3>Mod de preparare</h3>
+<ol>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Topiți untul la bain-marie.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Mărunțiți biscuiții în firimituri fine până la omogenizare (cu ajutorul unui făcăleț sau blender) și amestecați-le cu untul topit. Așteptați până când amestecul se va răci un pic.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Luați o formă pentru tort și puneți o folie alimentară (astfel va fi mai ușor de scos tortul). Puneți în partea de jos a formei un strat uniform de amestec de biscuiți și unt, îndesați și dați la frigider timp de 1-2 ore.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Turnați un pahar de apă rece peste gelatină și lăsați-o să se umfle timp de 40-60 de minute.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Amestecați în blender zahărul, smântâna și brânza de vaci.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Puneți gelatina umflată la foc mic și amestecați continuu până la dizolvarea completă, apoi lăsați-o să se răcească.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Turnați gelatina dizolvată în masa de brânză și amestecați bine.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Puneți un strat de struguri pe blatul răcit și deasupra turnați crema de brânză, apoi dați la frigider până se va întări, aproximativ 40 de minute.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;După ce tortul s-a răcit, scoateți bordura detașabilă a formei și înlăturați atent folia alimentară.&lt;/span&gt;</li>
+<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Decorați tortul cu nuci mărunțite și cu bobițe de struguri.&lt;/span&gt;</li>
+</ol>
+<p><strong>_Notă: _</strong>&lt;span style=&quot;font-weight: 400;&quot;&gt;După preferințe și gust, puteți adăuga boabe proaspete de struguri sau stafide în stratul de brânză, puneți esență sau zahăr de vanilie. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Torturile delicioase de sărbătoare, fără coacere au doar avantaje: este o variantă excelentă pentru sărbătorile pentru copii și pentru sărbătorile de familie, fiindcă arată foarte frumos și elegant.&lt;/span&gt;
+&lt;/div&gt;</p>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
       <title>Tort „Egiptean” – cel mai rafinat și nobil desert</title>
       <link>http://nicolaivadim.github.io/tort-egiptean-cel-mai-rafinat-si-nobil-desert/</link>
       <guid isPermaLink="true">http://nicolaivadim.github.io/tort-egiptean-cel-mai-rafinat-si-nobil-desert/</guid>
@@ -885,78 +957,6 @@ Poftă mare să aveți!!!</li>
 <li>&lt;span style=&quot;font-weight: 400;&quot;&gt; La final „îmbrăcați” tortul în crema crocantă și ornați cu nuci.&lt;/span&gt;
 &lt;/div&gt;</li>
 </ol>
-
-                <footer><!-- Copyright details for your article -->
-                  <small>Copyright imBOLD</small>
-                </footer>
-              </article>
-            </body>
-          </html>
-        ]]>
-      </content:encoded>
-    </item><item>
-      <title>Tort “Smarald” – un desert de brânză cu fructe fără coacere</title>
-      <link>http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/</link>
-      <guid isPermaLink="true">http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/</guid>
-      <pubDate>2016-06-25T16:08:39.000Z</pubDate>
-      <author>imBOLD</author>
-      <description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de&amp;nbsp;o cană de ceai sau să încheiați frumos un prânz festiv.&lt;/span&gt;&lt;br&gt;</description>
-      <content:encoded>
-        <![CDATA[
-          <!doctype html>
-          <html lang="en" prefix="op: http://media.facebook.com/op#">
-            <head>
-              <meta charset="utf-8">
-              <link rel="canonical" href="http://nicolaivadim.github.io/tort-smarald-un-desert-de-branza-cu-fructe-fara-coacere/">
-              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Tort “Smarald” – un desert de brânză cu fructe fără coacere">
-              <meta property="og:description" content="">
-              <meta property="og:image" content=""></head>
-            <body>
-              <article>
-                <header>
-                  <!-- The title and subtitle shown in your Instant Article -->
-                  <h1>Tort “Smarald” – un desert de brânză cu fructe fără coacere</h1><address>
-                    <a>imBOLD</a>
-                  </address>
-
-                  <!-- The date and time when your article was originally published -->
-                  <time class="op-published" datetime="2016-06-25T16:08:39.000Z">2016-06-25T16:08:39.000Z</time><!-- The date and time when your article was last updated -->
-                  <time class="op-modified" dateTime="2016-08-31T12:39:15.951Z">2016-08-31T12:39:15.951Z</time></header>
-                <p>&lt;span style=&quot;font-weight: 400;&quot;&gt;Indiferent în care perioadă a anului ne aflăm, mereu ne dorim ceva dulce. Mulți preferă să cumpere torturi la comandă, dar știm cu toții că nimic nu se compară cu torturile de casă. Vă oferă un tort fin, fără coacere – un tort delicios și simplu, ideal și pentru copii. Totul este foarte simplu: biscuiții crocanți se transformă într-un blat, iar crema este una gingașă: din brânză și smântână. Tortul “Smarald” este unul regal, un desert cu un aspect arătos pe care să-l savurați alături de o cană de ceai sau să încheiați frumos un prânz festiv.&lt;/span&gt;
-&lt;!-- more --&gt;
-<img src="http://imbold.info/delicios/wp-content/uploads/sites/3/2016/06/tort-de-br%C3%A2nz%C4%83.jpg" alt="tort-de-brânză">
-[wp_ad_camp_2]
-&lt;div class=&quot;shortcode-ingredients&quot;&gt;</p>
-<h3>Ingrediente</h3>
-<ul>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;200 g de brânză de vaci (brânza pentru umplutură trebuie să fie cu un conținut ridicat de grăsimi și trebuie mărunțită cu ajutorul blenderului)&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;500 g de smântână de 20%&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;180 g de unt&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;400 g de biscuiți sfărâmicioși&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;30 g de gelatină&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;1 pahar de zahăr&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;500-700 g de struguri&lt;/span&gt;</li>
-<li>&lt;span class=&quot;tick&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;nuci – pentru decor&lt;/span&gt;</li>
-</ul>
-<p><strong>_Notă: _</strong>&lt;span style=&quot;font-weight: 400;&quot;&gt;Vezi &lt;/span&gt;<a href="http://bucatarul.tv/masurarea-ingredientelor/"><strong>Măsurarea ingredientelor</strong></a>
-&lt;/div&gt;
-[wp_ad_camp_3]
-&lt;div class=&quot;shortcode-directions instructions&quot;&gt;</p>
-<h3>Mod de preparare</h3>
-<ol>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Topiți untul la bain-marie.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Mărunțiți biscuiții în firimituri fine până la omogenizare (cu ajutorul unui făcăleț sau blender) și amestecați-le cu untul topit. Așteptați până când amestecul se va răci un pic.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Luați o formă pentru tort și puneți o folie alimentară (astfel va fi mai ușor de scos tortul). Puneți în partea de jos a formei un strat uniform de amestec de biscuiți și unt, îndesați și dați la frigider timp de 1-2 ore.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Turnați un pahar de apă rece peste gelatină și lăsați-o să se umfle timp de 40-60 de minute.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Amestecați în blender zahărul, smântâna și brânza de vaci.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Puneți gelatina umflată la foc mic și amestecați continuu până la dizolvarea completă, apoi lăsați-o să se răcească.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Turnați gelatina dizolvată în masa de brânză și amestecați bine.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Puneți un strat de struguri pe blatul răcit și deasupra turnați crema de brânză, apoi dați la frigider până se va întări, aproximativ 40 de minute.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;După ce tortul s-a răcit, scoateți bordura detașabilă a formei și înlăturați atent folia alimentară.&lt;/span&gt;</li>
-<li>&lt;span style=&quot;font-weight: 400;&quot;&gt;Decorați tortul cu nuci mărunțite și cu bobițe de struguri.&lt;/span&gt;</li>
-</ol>
-<p><strong>_Notă: _</strong>&lt;span style=&quot;font-weight: 400;&quot;&gt;După preferințe și gust, puteți adăuga boabe proaspete de struguri sau stafide în stratul de brânză, puneți esență sau zahăr de vanilie. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Torturile delicioase de sărbătoare, fără coacere au doar avantaje: este o variantă excelentă pentru sărbătorile pentru copii și pentru sărbătorile de familie, fiindcă arată foarte frumos și elegant.&lt;/span&gt;
-&lt;/div&gt;</p>
 
                 <footer><!-- Copyright details for your article -->
                   <small>Copyright imBOLD</small>
