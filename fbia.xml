@@ -1,0 +1,328 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>imBOLD</title>
+    <link>http://nicolaivadim.github.io/</link>
+    <description>
+      
+    </description>
+    <language></language>
+    <lastBuildDate>2016-08-31T11:41:21.619Z</lastBuildDate><item>
+      <title>Educația la japonezi</title>
+      <link>http://nicolaivadim.github.io/educatia-la-japonezi/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/educatia-la-japonezi/</guid>
+      <pubDate>2016-08-30T14:09:01.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;figure&gt;&lt;video controls autoplay muted loop&gt;&lt;br&gt;      &lt;source src=&quot;/educatia-la-japonezi/educatie-japonia.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;</description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/educatia-la-japonezi/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Educația la japonezi">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>Educația la japonezi</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T14:09:01.000Z">2016-08-30T14:09:01.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.619Z">2016-08-31T11:41:21.619Z</time></header>
+                <p>&lt;figure&gt;&lt;video controls autoplay muted loop&gt;
+&lt;source src=&quot;{% asset_path educatie-japonia.mp4 %}&quot; type=&quot;video/mp4&quot; /&gt;<br>
+&lt;/video&gt;&lt;/figure&gt;</p>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>Asset Folder</title>
+      <link>http://nicolaivadim.github.io/asset-folder/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/asset-folder/</guid>
+      <pubDate>2016-08-30T12:57:39.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;img src=&quot;/asset-folder/image.jpg&quot; alt=&quot;This is an example image&quot; title=&quot;This is an example image&quot;&gt;
+</description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/asset-folder/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="Asset Folder">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>Asset Folder</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T12:57:39.000Z">2016-08-30T12:57:39.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.619Z">2016-08-31T11:41:21.619Z</time></header>
+                <p>{% asset_img image.jpg &quot;This is an example image&quot; %}</p>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>test2</title>
+      <link>http://nicolaivadim.github.io/test2/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/test2/</guid>
+      <pubDate>2016-08-29T11:23:24.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;p&gt;trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or _underscores&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First</description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/test2/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="test2">
+              <meta property="og:description" content="">
+              <meta property="og:image" content="http://blog.storyful.com/wp-content/uploads/sites/5/2016/04/Facebook-create.png"></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>test2</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-29T11:23:24.000Z">2016-08-29T11:23:24.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                <p>trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with <em>asterisks</em> or _underscores</p>
+<ol>
+<li>First ordered list item</li>
+<li>Another item trala la latrala la latrala la la</li>
+</ol>
+<h1>First paragraph</h1>
+<h2>Second paragraph</h2>
+<h1>First paragraph</h1>
+<h2>Second paragraph</h2>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>testhexo</title>
+      <link>http://nicolaivadim.github.io/testhexo/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/testhexo/</guid>
+      <pubDate>2016-08-30T07:22:58.000Z</pubDate>
+      <author>imBOLD</author>
+      <description></description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/testhexo/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="testhexo">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>testhexo</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T07:22:58.000Z">2016-08-30T07:22:58.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>testhexo2</title>
+      <link>http://nicolaivadim.github.io/testhexo2/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/testhexo2/</guid>
+      <pubDate>2016-08-30T07:24:46.000Z</pubDate>
+      <author>imBOLD</author>
+      <description></description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/testhexo2/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="testhexo2">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>testhexo2</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T07:24:46.000Z">2016-08-30T07:24:46.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>testhexo3</title>
+      <link>http://nicolaivadim.github.io/testhexo3-1/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/testhexo3-1/</guid>
+      <pubDate>2016-08-30T07:25:40.000Z</pubDate>
+      <author>imBOLD</author>
+      <description></description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/testhexo3-1/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="testhexo3">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>testhexo3</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T07:25:40.000Z">2016-08-30T07:25:40.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>testhexo3</title>
+      <link>http://nicolaivadim.github.io/testhexo3/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/testhexo3/</guid>
+      <pubDate>2016-08-30T07:25:24.000Z</pubDate>
+      <author>imBOLD</author>
+      <description></description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/testhexo3/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="testhexo3">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>testhexo3</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-30T07:25:24.000Z">2016-08-30T07:25:24.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item><item>
+      <title>testimages</title>
+      <link>http://nicolaivadim.github.io/testimages/</link>
+      <guid isPermaLink="true">http://nicolaivadim.github.io/testimages/</guid>
+      <pubDate>2016-08-29T13:09:16.000Z</pubDate>
+      <author>imBOLD</author>
+      <description>&lt;h1 id=&quot;1-First-ordered-list-item&quot;&gt;&lt;a href=&quot;#1-First-ordered-list-item&quot; class=&quot;headerlink&quot; title=&quot;1. First ordered list item &quot;&gt;&lt;/a&gt;1. First </description>
+      <content:encoded>
+        <![CDATA[
+          <!doctype html>
+          <html lang="en" prefix="op: http://media.facebook.com/op#">
+            <head>
+              <meta charset="utf-8">
+              <link rel="canonical" href="http://nicolaivadim.github.io/testimages/">
+              <meta property="op:markup_version" content="v1.0"><meta property="og:title" content="testimages">
+              <meta property="og:description" content="">
+              <meta property="og:image" content=""></head>
+            <body>
+              <article>
+                <header>
+                  <!-- The title and subtitle shown in your Instant Article -->
+                  <h1>testimages</h1><address>
+                    <a>imBOLD</a>
+                  </address>
+
+                  <!-- The date and time when your article was originally published -->
+                  <time class="op-published" datetime="2016-08-29T13:09:16.000Z">2016-08-29T13:09:16.000Z</time><!-- The date and time when your article was last updated -->
+                  <time class="op-modified" dateTime="2016-08-31T11:41:21.731Z">2016-08-31T11:41:21.731Z</time></header>
+                <h1>1. First ordered list item <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1"></h1>
+<h1>2. Another item trala la latrala la latrala la la</h1>
+<p>#Test</p>
+<h2>1. Second ordered list item</h2>
+<h2>2. Second another item trala la latrala la latrala la la</h2>
+<figure><img src="https://unsplash.it/400" alt=""></figure>
+
+                <footer><!-- Copyright details for your article -->
+                  <small>Copyright imBOLD</small>
+                </footer>
+              </article>
+            </body>
+          </html>
+        ]]>
+      </content:encoded>
+    </item></channel>
+</rss>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>imBOLD</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nicolaivadim.github.io/"/>
+  <updated>2016-08-31T11:41:21.619Z</updated>
+  <id>http://nicolaivadim.github.io/</id>
+  
+  <author>
+    <name>imBOLD</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Educația la japonezi</title>
+    <link href="http://nicolaivadim.github.io/educatia-la-japonezi/"/>
+    <id>http://nicolaivadim.github.io/educatia-la-japonezi/</id>
+    <published>2016-08-30T14:09:01.000Z</published>
+    <updated>2016-08-31T11:41:21.619Z</updated>
+    
+    <content type="html"><![CDATA[<figure><video controls autoplay muted loop><br>      <source src="/educatia-la-japonezi/educatie-japonia.mp4" type="video/mp4"><br></video></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure&gt;&lt;video controls autoplay muted loop&gt;&lt;br&gt;      &lt;source src=&quot;/educatia-la-japonezi/educatie-japonia.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;
+    
+    </summary>
+    
+      <category term="Educaţie" scheme="http://nicolaivadim.github.io/categories/educatie/"/>
+    
+    
+      <category term="Japonia" scheme="http://nicolaivadim.github.io/tags/japonia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Asset Folder</title>
+    <link href="http://nicolaivadim.github.io/asset-folder/"/>
+    <id>http://nicolaivadim.github.io/asset-folder/</id>
+    <published>2016-08-30T12:57:39.000Z</published>
+    <updated>2016-08-31T11:41:21.619Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/asset-folder/image.jpg" alt="This is an example image" title="This is an example image">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/asset-folder/image.jpg&quot; alt=&quot;This is an example image&quot; title=&quot;This is an example image&quot;&gt;
+
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testhexo3</title>
+    <link href="http://nicolaivadim.github.io/testhexo3-1/"/>
+    <id>http://nicolaivadim.github.io/testhexo3-1/</id>
+    <published>2016-08-30T07:25:40.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testhexo3</title>
+    <link href="http://nicolaivadim.github.io/testhexo3/"/>
+    <id>http://nicolaivadim.github.io/testhexo3/</id>
+    <published>2016-08-30T07:25:24.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testhexo2</title>
+    <link href="http://nicolaivadim.github.io/testhexo2/"/>
+    <id>http://nicolaivadim.github.io/testhexo2/</id>
+    <published>2016-08-30T07:24:46.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testhexo</title>
+    <link href="http://nicolaivadim.github.io/testhexo/"/>
+    <id>http://nicolaivadim.github.io/testhexo/</id>
+    <published>2016-08-30T07:22:58.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testimages</title>
+    <link href="http://nicolaivadim.github.io/testimages/"/>
+    <id>http://nicolaivadim.github.io/testimages/</id>
+    <published>2016-08-29T13:09:16.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-First-ordered-list-item"><a href="#1-First-ordered-list-item" class="headerlink" title="1. First ordered list item "></a>1. First ordered list item <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1"></h1><h1 id="2-Another-item-trala-la-latrala-la-latrala-la-la"><a href="#2-Another-item-trala-la-latrala-la-latrala-la-la" class="headerlink" title="2. Another item trala la latrala la latrala la la"></a>2. Another item trala la latrala la latrala la la</h1><p>#Test</p>
+<h2 id="1-Second-ordered-list-item"><a href="#1-Second-ordered-list-item" class="headerlink" title="1. Second ordered list item"></a>1. Second ordered list item</h2><h2 id="2-Second-another-item-trala-la-latrala-la-latrala-la-la"><a href="#2-Second-another-item-trala-la-latrala-la-latrala-la-la" class="headerlink" title="2. Second another item trala la latrala la latrala la la"></a>2. Second another item trala la latrala la latrala la la</h2><p><img src="https://unsplash.it/400" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;1-First-ordered-list-item&quot;&gt;&lt;a href=&quot;#1-First-ordered-list-item&quot; class=&quot;headerlink&quot; title=&quot;1. First ordered list item &quot;&gt;&lt;/a&gt;1. First 
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+      <category term="Shocking" scheme="http://nicolaivadim.github.io/tags/shocking/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="http://nicolaivadim.github.io/test2/"/>
+    <id>http://nicolaivadim.github.io/test2/</id>
+    <published>2016-08-29T11:23:24.000Z</published>
+    <updated>2016-08-31T11:41:21.731Z</updated>
+    
+    <content type="html"><![CDATA[<p>trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with <em>asterisks</em> or _underscores</p>
+<ol>
+<li>First ordered list item</li>
+<li>Another item trala la latrala la latrala la la</li>
+</ol>
+<h1 id="First-paragraph"><a href="#First-paragraph" class="headerlink" title="First paragraph"></a>First paragraph</h1><h2 id="Second-paragraph"><a href="#Second-paragraph" class="headerlink" title="Second paragraph"></a>Second paragraph</h2><h1 id="First-paragraph-1"><a href="#First-paragraph-1" class="headerlink" title="First paragraph"></a>First paragraph</h1><h2 id="Second-paragraph-1"><a href="#Second-paragraph-1" class="headerlink" title="Second paragraph"></a>Second paragraph</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;trala la latrala la latrala la latrala la latrala la la Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or _underscores&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First
+    
+    </summary>
+    
+      <category term="Sports" scheme="http://nicolaivadim.github.io/categories/sports/"/>
+    
+      <category term="Baseball" scheme="http://nicolaivadim.github.io/categories/sports/baseball/"/>
+    
+    
+      <category term="Injury" scheme="http://nicolaivadim.github.io/tags/injury/"/>
+    
+      <category term="Fight" scheme="http://nicolaivadim.github.io/tags/fight/"/>
+    
+  </entry>
+  
+</feed>
