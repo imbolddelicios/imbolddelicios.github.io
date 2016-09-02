@@ -215,7 +215,7 @@ body {
 }
 .article-entry h2,
 .widget h2 {
-  font-size: 1.5em;
+  font-size: 1.7em;
 }
 .article-entry h3,
 .widget h3 {
@@ -541,6 +541,9 @@ a.article-title:hover {
 .article-entry:after {
   clear: both;
 }
+.article-entry p {
+  font-size: 18px;
+}
 .article-entry p,
 .article-entry table {
   line-height: 1.6em;
@@ -573,14 +576,9 @@ a.article-title:hover {
 .article-entry ul,
 .article-entry ol,
 .article-entry dl {
+  font-size: 18px;
   margin-top: 1.6em;
   margin-bottom: 1.6em;
-  margin-left: 0;
-}
-.article-entry ul li,
-.article-entry ol li,
-.article-entry dl li {
-  margin-left: 2em;
 }
 .article-entry img,
 .article-entry video {
@@ -663,10 +661,7 @@ a.article-title:hover {
   margin-top: 0;
 }
 .article-entry .fb-social {
-  margin-bottom: 1em;
-}
-.article-entry .og-image {
-  margin: 1em 0;
+  margin-bottom: 2em;
 }
 .article-more-link a {
   display: inline-block;
