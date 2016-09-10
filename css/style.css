@@ -591,6 +591,12 @@ a.article-title:hover {
   margin: 0;
   width: 100%;
 }
+.article-entry figure img {
+  margin: 20px 0 30px;
+}
+.article-entry figure.op-ad {
+  margin-bottom: 20px;
+}
 .article-entry iframe {
   border: none;
 }

@@ -66,10 +66,6 @@
                   <h3 class="op-kicker">{{ post.fbia.header.kicker }}</h3>
                   {%- endif -%}
 
-                  <address>
-                    <a>{{ config.author }}</a>
-                  </address>
-
                   <!-- The date and time when your article was originally published -->
                   <time class="op-published" datetime="{{ post.date.toISOString() }}">{{ post.date.toISOString() }}</time>
 
@@ -96,6 +92,23 @@
                   {%- endif -%}
 
                 </header>
+                <p class="description">
+                  {{ post.description }}
+                </p>
+
+                <h2>Ingrediente</h2>
+                  <ul>
+                  {%- for ingredient in post.ingrediente -%}
+                    <li>{{ ingredient }}</li>
+                  {%- endfor -%}
+                  </ul>
+                <h2>Mod de preparare</h2>
+                  <ol>
+                  {%- for preparar in post.preparare -%}
+                    <li>{{ preparar }}</li>
+                  {%- endfor -%}
+                  </ol>
+
                 {{ post._content | markdown_it_fbia | safe }}
                 <footer>
                   {%- if post.fbia.footer.credits -%}
@@ -111,7 +124,6 @@
                   </ul>
                   {%- endif -%}
 
-                  <!-- Copyright details for your article -->
                   <small>Copyright {{ config.author }}</small>
                 </footer>
               </article>
