@@ -48,10 +48,10 @@
                   <!-- The title and subtitle shown in your Instant Article -->
                   <h1>{{ post.title }}</h1>
 
-                  {%- if post.fbia.header.img -%}
+                  {%- if post.image -%}
                   <!-- The header image shown inside your article -->
                   <figure>
-                    <img src="{{ post.image }}" />
+                    <img src="{{ url + post.path + post.image }}" />
                   </figure>
                   {%- endif -%}
 

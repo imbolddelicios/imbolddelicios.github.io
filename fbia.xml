@@ -27,7 +27,10 @@
               <article>
                 <header>
                   <!-- The title and subtitle shown in your Instant Article -->
-                  <h1>Găluște cu prune – rețeta celui mai iubit desert unguresc!</h1><figure class="op-ad">
+                  <h1>Găluște cu prune – rețeta celui mai iubit desert unguresc!</h1><!-- The header image shown inside your article -->
+                  <figure>
+                    <img src="http://delicios.imbold.info/galuste-cu-prune-reteta-celui-mai-iubit-desert-unguresc/galuste.png" />
+                  </figure><figure class="op-ad">
                         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                   <!-- Article bottom - display -->
                         <ins class="adsbygoogle"
