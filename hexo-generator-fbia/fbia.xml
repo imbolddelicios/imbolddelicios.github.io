@@ -56,16 +56,7 @@
                   {%- endif -%}
 
                   <figure class="op-ad">
-                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                  <!-- Article bottom - display -->
-                        <ins class="adsbygoogle"
-                             style="display:block"
-                             data-ad-client="ca-pub-5448180357032830"
-                             data-ad-slot="1589289907"
-                             data-ad-format="auto"></ins>
-                        <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5448180357032830" data-ad-slot="1589289907" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
                   </figure>
 
                   {%- if post.fbia.header.subtitle -%}
@@ -110,18 +101,8 @@
                 </p>
 
                 <figure class="op-ad">
-                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- 2 -->
-                <ins class="adsbygoogle"
-                     style="display:block"
-                     data-ad-client="ca-pub-5448180357032830"
-                     data-ad-slot="7124258704"
-                     data-ad-format="auto"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5448180357032830" data-ad-slot="7124258704" data-ad-format="auto"></ins><script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
                 </figure>
-
 
                 <h2>Ingrediente</h2>
                   <ul>
@@ -131,18 +112,8 @@
                   </ul>
 
                   <figure class="op-ad">
-                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                  <!-- 3 -->
-                  <ins class="adsbygoogle"
-                       style="display:block"
-                       data-ad-client="ca-pub-5448180357032830"
-                       data-ad-slot="1746654301"
-                       data-ad-format="auto"></ins>
-                  <script>
-                  (adsbygoogle = window.adsbygoogle || []).push({});
-                  </script>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5448180357032830" data-ad-slot="1746654301" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
                   </figure>
-
 
                 <h2>Mod de preparare</h2>
                   {%- for preparar in post.preparare -%}
