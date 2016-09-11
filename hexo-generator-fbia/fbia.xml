@@ -38,8 +38,8 @@
 
               {%- if post.fbia.og -%}
               <meta property="og:title" content="{{ post.fbia.og.title }}">
-              <meta property="og:description" content="{{ post.description }}">
-              <meta property="og:image" content="{{ url + post.path + post.image }}">
+              <meta property="og:description" content="{{ post.fbia.og.description }}">
+              <meta property="og:image" content="{{ post.fbia.og.image }}">
               {%- endif -%}
             </head>
             <body>
@@ -48,10 +48,11 @@
                   <!-- The title and subtitle shown in your Instant Article -->
                   <h1>{{ post.title }}</h1>
 
-                  {%- if post.image -%}
+                  {%- if post.fbia.header.img -%}
                   <!-- The header image shown inside your article -->
                   <figure>
-                    <img src="{{ url + post.path + post.image }}" />
+                    <img src="{{ post.fbia.header.img }}" />
+                    <figcaption>{{ post.fbia.header.caption }}</figcaption>
                   </figure>
                   {%- endif -%}
 
@@ -65,22 +66,16 @@
                   <h3 class="op-kicker">{{ post.fbia.header.kicker }}</h3>
                   {%- endif -%}
 
+                  <address>
+                    <a>{{ config.author }}</a>
+                  </address>
+
                   <!-- The date and time when your article was originally published -->
                   <time class="op-published" datetime="{{ post.date.toISOString() }}">{{ post.date.toISOString() }}</time>
 
                   {%- if post.updated -%}
                   <!-- The date and time when your article was last updated -->
                   <time class="op-modified" dateTime="{{ post.updated.toISOString() }}">{{ post.updated.toISOString() }}</time>
-                  {%- endif -%}
-
-                  {%- if post.video -%}
-
-                  <figure>
-                    <video>
-                      <source src="{{ url + post.path + post.video }}" type="video/mp4" />
-                    </video>
-                  </figure>
-
                   {%- endif -%}
 
                   {%- if config.fbia.use_automatic_ad_placement and post.fbia.ad | ad_enable -%}
@@ -91,37 +86,7 @@
                   {%- endif -%}
 
                 </header>
-
-                <p class="description">
-                  {{ post.description }}
-                </p>
-
-                <h2>Ingrediente</h2>
-                  <ul>
-                  {%- for ingredient in post.ingrediente -%}
-                    <li>{{ ingredient }}</li>
-                  {%- endfor -%}
-                  </ul>
-
-                <h2>Mod de preparare</h2>
-                  {%- for preparar in post.preparare -%}
-
-                    {%- if (preparar[0] == 'paspreparare') -%}
-                      <p>{{ preparar[1] }}</p>
-                    {%- endif -%}
-
-                    {%- if (preparar[0] == 'image') -%}
-                      <figure>
-                        <img src="{{ url + post.path + preparar[1] }}" />
-                      </figure>
-                    {%- endif -%}
-
-                  {%- endfor -%}
-
                 {{ post._content | markdown_it_fbia | safe }}
-
-                <p>Poftă bună</p>
-
                 <footer>
                   {%- if post.fbia.footer.credits -%}
                   <!-- Credits for your article -->
@@ -136,6 +101,7 @@
                   </ul>
                   {%- endif -%}
 
+                  <!-- Copyright details for your article -->
                   <small>Copyright {{ config.author }}</small>
                 </footer>
               </article>

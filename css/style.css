@@ -124,11 +124,11 @@ body,
 }
 body {
   background: #eee;
-  font: 14px 'Open Sans', sans-serif;
+  font: 18px 'Open Sans', sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  max-width: 980px;
+  max-width: 1220px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -143,8 +143,8 @@ body {
 .inner {
   display: inline;
   float: left;
-  width: 97.91666666666666%;
-  margin: 0 1.041666666666667%;
+  width: 98.33333333333333%;
+  margin: 0 0.833333333333333%;
 }
 .left,
 .alignleft {
@@ -183,8 +183,8 @@ body {
   #main {
     display: inline;
     float: left;
-    width: 72.91666666666666%;
-    margin: 0 1.041666666666667%;
+    width: 73.33333333333333%;
+    margin: 0 0.833333333333333%;
   }
 }
 .article-date,
@@ -215,7 +215,7 @@ body {
 }
 .article-entry h2,
 .widget h2 {
-  font-size: 1.7em;
+  font-size: 1.5em;
 }
 .article-entry h3,
 .widget h3 {
@@ -383,9 +383,9 @@ body {
 .nav-icon {
   font-family: FontAwesome;
   text-align: center;
-  font-size: 14px;
-  width: 14px;
-  height: 14px;
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
   padding: 20px 15px;
   position: relative;
   cursor: pointer;
@@ -541,13 +541,10 @@ a.article-title:hover {
 .article-entry:after {
   clear: both;
 }
-.article-entry p {
-  font-size: 18px;
-}
 .article-entry p,
 .article-entry table {
   line-height: 1.6em;
-  margin: 0 0 1.6em 0;
+  margin: 1.6em 0;
 }
 .article-entry h1,
 .article-entry h4,
@@ -578,7 +575,6 @@ a.article-title:hover {
 .article-entry ul,
 .article-entry ol,
 .article-entry dl {
-  font-size: 18px;
   margin-top: 1.6em;
   margin-bottom: 1.6em;
 }
@@ -587,17 +583,10 @@ a.article-title:hover {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 20px auto;
+  margin: 20px 0 30px 0;
 }
 .article-entry figure {
   margin: 0;
-  width: 100%;
-}
-.article-entry figure img {
-  margin: 20px 0 30px;
-}
-.article-entry figure.op-ad {
-  margin-bottom: 20px;
 }
 .article-entry iframe {
   border: none;
@@ -623,7 +612,7 @@ a.article-title:hover {
   text-align: center;
 }
 .article-entry blockquote footer {
-  font-size: 14px;
+  font-size: 18px;
   margin: 1.6em 0;
   font-family: 'Open Sans', sans-serif;
 }
@@ -667,9 +656,6 @@ a.article-title:hover {
   width: 100%;
   height: 100%;
   margin-top: 0;
-}
-.article-entry .fb-social {
-  margin-bottom: 2em;
 }
 .article-more-link a {
   display: inline-block;
@@ -1098,7 +1084,7 @@ a.article-title:hover {
   border-width: 1px 0;
   overflow: auto;
   color: #ccc;
-  line-height: 22.400000000000002px;
+  line-height: 28.8px;
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
@@ -1154,7 +1140,7 @@ a.article-title:hover {
   padding-right: 20px;
 }
 .article-entry .highlight .line {
-  height: 22.400000000000002px;
+  height: 28.8px;
 }
 .article-entry .highlight .line.marked {
   background: #515151;
@@ -1288,8 +1274,8 @@ pre .javascript .function {
   #sidebar {
     display: inline;
     float: left;
-    width: 22.916666666666664%;
-    margin: 0 1.041666666666667%;
+    width: 23.333333333333332%;
+    margin: 0 0.833333333333333%;
   }
 }
 .widget-wrap {
