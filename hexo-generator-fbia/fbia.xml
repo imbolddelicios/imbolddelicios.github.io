@@ -145,11 +145,10 @@
 
 
                 <h2>Mod de preparare</h2>
-                  <ol>
                   {%- for preparar in post.preparare -%}
 
                     {%- if (preparar[0] == 'paspreparare') -%}
-                      <li>{{ preparar[1] }}</li>
+                      <p>{{ preparar[1] }}</p>
                     {%- endif -%}
 
                     {%- if (preparar[0] == 'image') -%}
@@ -159,7 +158,6 @@
                     {%- endif -%}
 
                   {%- endfor -%}
-                  </ol>
 
                 {{ post._content | markdown_it_fbia | safe }}
 
