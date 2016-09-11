@@ -51,10 +51,22 @@
                   {%- if post.fbia.header.img -%}
                   <!-- The header image shown inside your article -->
                   <figure>
-                    <img src="{{ post.fbia.header.img }}" />
-                    <figcaption>{{ post.fbia.header.caption }}</figcaption>
+                    <img src="{{ post.image }}" />
                   </figure>
                   {%- endif -%}
+
+                  <figure class="op-ad">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                  <!-- Article bottom - display -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-5448180357032830"
+                             data-ad-slot="1589289907"
+                             data-ad-format="auto"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                  </figure>
 
                   {%- if post.fbia.header.subtitle -%}
                   <!-- The subtitle shown in your article -->
@@ -92,9 +104,24 @@
                   {%- endif -%}
 
                 </header>
+
                 <p class="description">
                   {{ post.description }}
                 </p>
+
+                <figure class="op-ad">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- 2 -->
+                <ins class="adsbygoogle"
+                     style="display:block"
+                     data-ad-client="ca-pub-5448180357032830"
+                     data-ad-slot="7124258704"
+                     data-ad-format="auto"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                </figure>
+
 
                 <h2>Ingrediente</h2>
                   <ul>
@@ -102,14 +129,42 @@
                     <li>{{ ingredient }}</li>
                   {%- endfor -%}
                   </ul>
+
+                  <figure class="op-ad">
+                  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                  <!-- 3 -->
+                  <ins class="adsbygoogle"
+                       style="display:block"
+                       data-ad-client="ca-pub-5448180357032830"
+                       data-ad-slot="1746654301"
+                       data-ad-format="auto"></ins>
+                  <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                  </script>
+                  </figure>
+
+
                 <h2>Mod de preparare</h2>
                   <ol>
                   {%- for preparar in post.preparare -%}
-                    <li>{{ preparar }}</li>
+
+                    {%- if (preparar[0] == 'paspreparare') -%}
+                      <li>{{ preparar[1] }}</li>
+                    {%- endif -%}
+
+                    {%- if (preparar[0] == 'image') -%}
+                      <figure>
+                        <img src="{{ preparar[1] }}" />
+                      </figure>
+                    {%- endif -%}
+
                   {%- endfor -%}
                   </ol>
 
                 {{ post._content | markdown_it_fbia | safe }}
+
+                <p>Poftă bună</p>
+
                 <footer>
                   {%- if post.fbia.footer.credits -%}
                   <!-- Credits for your article -->
