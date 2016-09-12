@@ -588,6 +588,9 @@ a.article-title:hover {
 .article-entry figure {
   margin: 0;
 }
+.article-entry figure.op-ad {
+  margin-bottom: 20px;
+}
 .article-entry iframe {
   border: none;
 }
