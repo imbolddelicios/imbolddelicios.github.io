@@ -94,20 +94,20 @@
                   {%- endif -%}
 
                   {%- if post.ingrediente -%}
-                    {% for ingredient in ingrediente %}
-                      {% if (ingredient[i][0] == 'titlu-ingredient') %}
-                        <h2>{{ ingredient[i][1] }}</h2>
-                      {% elif (ingredient[i][0] == 'ingredient') %}
-                        <p>{{ ingredient[i][1] }}</p>
+                    {% for ingredient in post.ingrediente %}
+                      {% if (ingredient[0] == 'titlu-ingredient') %}
+                        <h2>{{ ingredient[1] }}</h2>
+                      {% elif (ingredient[0] == 'ingredient') %}
+                        <p>&bull;  {{ ingredient[1] }}</p>
                       {% endif %}
                     {% endfor %}
                   {%- endif -%}
 
                   {%- if post.preparare -%}
-                    {% for preparar in preparare %}
+                    {% for preparar in post.preparare %}
                       {% if (preparar[i][0] == 'paspreparare') %}
-                        <p>{{ preparar[i][1] }}</p>
-                      {% elif (preparar[i][0] == 'image') %}
+                        <p>{{ preparar[1] }}</p>
+                      {% elif (preparar[0] == 'image') %}
                         <figure data-feedback="fb:likes fb:comments">
                           <img src="{{ preparar[i][1] }}" />
                         </figure>
