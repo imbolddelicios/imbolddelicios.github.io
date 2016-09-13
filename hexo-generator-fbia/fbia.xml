@@ -104,6 +104,7 @@
                   {%- endif -%}
 
                   {%- if post.preparare -%}
+                    <h2>Mod de preparare</h2>
                     {%- for preparar in post.preparare -%}
                       {%- if (preparar[0] == 'paspreparare') -%}
                         <p>{{ preparar[1] }}</p>
