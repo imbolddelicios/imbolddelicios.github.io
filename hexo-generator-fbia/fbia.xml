@@ -109,7 +109,7 @@
                         <p>{{ preparar[1] }}</p>
                       {% elif (preparar[0] == 'image') %}
                         <figure data-feedback="fb:likes fb:comments">
-                          <img src="{{ preparar[i][1] }}" />
+                          <img src="{{ url + post.path + preparar[1] }}" />
                         </figure>
                       {% endif %}
                     {% endfor %}
