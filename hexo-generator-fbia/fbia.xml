@@ -36,23 +36,18 @@
               <meta property="fb:use_automatic_ad_placement" content="true">
               {%- endif -%}
 
-              {%- if post.fbia.og -%}
-              <meta property="og:title" content="{{ post.fbia.og.title }}">
+              <meta property="og:title" content="{{ post.title }}">
               <meta property="og:description" content="{{ post.description }}">
-              <meta property="og:image" content="{{ post.image }}">
-              {%- endif -%}
+              <meta property="og:image" content="{{ url + post.path + post.image }}">
+
             </head>
             <body>
               <article>
                 <header>
-                  <!-- The title and subtitle shown in your Instant Article -->
                   <h1>{{ post.title }}</h1>
-
-                  {%- if post.fbia.header.img -%}
-                  <!-- The header image shown inside your article -->
-                  <figure>
-                    <img src="{{ post.fbia.header.img }}" />
-                    <figcaption>{{ post.fbia.header.caption }}</figcaption>
+                  {%- if post.image -%}
+                  <figure data-feedback="fb:likes fb:comments">
+                    <img src="{{ url + post.path + post.image }}" />
                   </figure>
                   {%- endif -%}
 
@@ -65,10 +60,6 @@
                   <!-- A kicker for your article -->
                   <h3 class="op-kicker">{{ post.fbia.header.kicker }}</h3>
                   {%- endif -%}
-
-                  <address>
-                    <a>{{ config.author }}</a>
-                  </address>
 
                   <!-- The date and time when your article was originally published -->
                   <time class="op-published" datetime="{{ post.date.toISOString() }}">{{ post.date.toISOString() }}</time>
@@ -86,7 +77,45 @@
                   {%- endif -%}
 
                 </header>
-                {{ post._content | markdown_it_fbia | safe }}
+                  <p>{{ post.description }}</p>
+
+                  {%- if post.video -%}
+                  <figure data-feedback="fb:likes, fb:comments">
+                    <video>
+                      <source src="{{ url + post.path + post.video }}" type="video/mp4" />
+                    </video>
+                  </figure>
+                  {%- endif -%}
+
+                  {%- if post.youtube -%}
+                  <figure class="op-interactive" data-feedback="fb:likes fb:comments">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ url + post.path + post.youtube }}"></iframe>
+                  </figure>
+                  {%- endif -%}
+
+                  {%- if post.ingrediente -%}
+                    {% for ingredient in ingrediente %}
+                      {% if (ingredient[i][0] == 'titlu-ingredient') %}
+                        <h2>{{ ingredient[i][1] }}</h2>
+                      {% elif (ingredient[i][0] == 'ingredient') %}
+                        <p>{{ ingredient[i][1] }}</p>
+                      {% endif %}
+                    {% endfor %}
+                  {%- endif -%}
+
+                  {%- if post.preparare -%}
+                    {% for preparar in preparare %}
+                      {% if (preparar[i][0] == 'paspreparare') %}
+                        <p>{{ preparar[i][1] }}</p>
+                      {% elif (preparar[i][0] == 'image') %}
+                        <figure data-feedback="fb:likes fb:comments">
+                          <img src="{{ preparar[i][1] }}" />
+                        </figure>
+                      {% endif %}
+                    {% endfor %}
+                  {%- endif -%}
+
+                  {{ post._content | markdown_it_fbia | safe }}
                 <footer>
                   {%- if post.fbia.footer.credits -%}
                   <!-- Credits for your article -->
