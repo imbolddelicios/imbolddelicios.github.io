@@ -117,6 +117,11 @@
                   {%- endif -%}
 
                   {{ post._content | markdown_it_fbia | safe }}
+
+                  {%- if (url == 'http://delicios.imbold.info/')  -%}
+                    <p>Poftă bună</p>
+                  {%- endif -%}
+
                 <footer>
                   {%- if post.fbia.footer.credits -%}
                   <!-- Credits for your article -->
