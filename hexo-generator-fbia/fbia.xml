@@ -89,7 +89,7 @@
 
                   {%- if post.youtube -%}
                   <figure class="op-interactive" data-feedback="fb:likes fb:comments">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube }}"></iframe>
+                    <iframe class="no-margin" width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube }}"></iframe>
                   </figure>
                   {%- endif -%}
 
@@ -98,7 +98,7 @@
                       {%- if (ingredient[0] == 'titlu-ingredient') -%}
                         <h2>{{ ingredient[1] }}</h2>
                       {%- elif (ingredient[0] == 'ingredient') -%}
-                        <p>&bull;  {{ ingredient[1] }}</p>
+                        <p>-  {{ ingredient[1] }}</p>
                       {%- endif -%}
                     {%- endfor -%}
                   {%- endif -%}
