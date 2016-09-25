@@ -89,7 +89,7 @@
 
                   {%- if post.youtube -%}
                   <figure class="op-interactive" data-feedback="fb:likes fb:comments">
-                    <iframe class="no-margin" width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube }}"></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube }}"></iframe>
                   </figure>
                   {%- endif -%}
 
@@ -98,7 +98,7 @@
                       {%- if (ingredient[0] == 'titlu-ingredient') -%}
                         <h2>{{ ingredient[1] }}</h2>
                       {%- elif (ingredient[0] == 'ingredient') -%}
-                        <p>-  {{ ingredient[1] }}</p>
+                        <p>&bull;  {{ ingredient[1] }}</p>
                       {%- endif -%}
                     {%- endfor -%}
                   {%- endif -%}
@@ -116,12 +116,27 @@
                     {%- endfor -%}
                   {%- endif -%}
 
-                  {{ post._content | markdown_it_fbia | safe }}
-
-                  {%- if (url == 'http://delicios.imbold.info/')  -%}
-                    <p>Poftă bună</p>
+                  {%- if post.bodycontent -%}                    
+                    {%- for bodycont in post.bodycontent -%}
+                      {%- if (bodycont[0] == 'text') -%}
+                        <p>{{ bodycont[1] }}</p>
+                      {%- elif (bodycont[0] == 'image') -%}
+                        <figure data-feedback="fb:likes fb:comments">
+                          <img src="{{ url + post.path + bodycont[1] }}" />
+                        </figure>
+                      {%- endif -%}
+                    {%- endfor -%}
                   {%- endif -%}
 
+                  {%- if post.sursa -%}
+
+                    <a href="{{ post.sursa }}"  target="_blank">sursa</a>
+
+                  {%- endif -%}
+
+
+                  {{ post._content | markdown_it_fbia | safe }}
+                  
                 <footer>
                   {%- if post.fbia.footer.credits -%}
                   <!-- Credits for your article -->

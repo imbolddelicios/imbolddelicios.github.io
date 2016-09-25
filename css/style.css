@@ -927,6 +927,10 @@ a.article-title:hover {
   max-width: 100%;
   margin: 0 auto;
 }
+.fb-like,
+.fb-share-button {
+  margin-bottom: 30px;
+}
 #comments {
   background: #fff;
   -webkit-box-shadow: 1px 2px 3px #ddd;
